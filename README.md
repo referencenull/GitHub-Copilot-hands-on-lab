@@ -1,8 +1,8 @@
-# 🚀 GitHub Copilot Hackathon Challenge
-# https://github.com/Jfhelin/hack
+# 🚀 GitHub Copilot Hands-On Lab
+# https://github.com/referencenull/GitHub-Copilot-hands-on-lab
 
-Welcome to the **GitHub Copilot Hackathon**!  
-This challenge will guide you through the latest Copilot features — from *Ask* and *Edit* modes to *MCP-powered issues*, *Copilot Coding Agent*, and *AI PR reviews*.  
+Welcome to the **GitHub Copilot Hands-On Lab**!  
+This challenge will guide you through some of the Copilot features — from *Ask* and *Edit* and *Plan* modes to *MCP-powered issues*, *Copilot Coding Agent*, and *AI PR reviews*.  
 You’ll work inside your own repository, experimenting freely and discovering how Copilot transforms your workflow.
 
 ---
