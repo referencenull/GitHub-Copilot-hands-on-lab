@@ -20,7 +20,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
       <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
       <br>
 - [ ]  Fill in required information and follow the process and then sign in
-
+</details>
 <details>
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
