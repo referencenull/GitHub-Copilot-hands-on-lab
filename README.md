@@ -18,7 +18,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 
 - [ ] From upper right corner click: Sign up
       <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-      </br>
+      <br>
 - [ ]  Fill in required information and follow the process and then sign in
 
 > ⚠️ Copilot never commits code without your consent, but keep your hackathon work isolated.
@@ -36,23 +36,23 @@ You’ll work inside your own repository, experimenting freely and discovering h
 - [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 - [Setting up GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/setup)
 </details>
----
 
-## 💬 Phase 2 – Exploring Copilot Chat Modes
+## 💬 Phase 1 – Create repo and issue
 
-**Goal:** Learn how Copilot helps you explore, understand, and reason about your code.
+**Goal:** Setup basic envrionment/repo where you can test and try GitHub Copilot
 
 <details>
-<summary>🔹 <b>4️⃣ Explore your code using Ask mode</b></summary>
-
-Pick a file or function you don’t know well and experiment freely with **Copilot Chat**.
+<summary>🔹 <b>4️⃣ Create empty repo with one issue</b></summary>
 
 Try questions like:
-- [ ] “Explain what this function does, step by step.”  
-- [ ] “Where is this class used?”  
-- [ ] “Could this function be simplified?”  
-- [ ] “Generate a test for this logic.”  
-- [ ] “Rewrite this using a different algorithm.”  
+- [ ]  Click your profile picture at the top right and choose  "Repositories" from the menu <br>
+      <img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/e7ad7952-dcc7-4fca-ba1a-3ec94d9a65f3" /> <br>     
+- [ ]  Click "New" button to create new repo. Give it a name and description (like "This is a web application to manage inventory")
+- [ ] Click "Issues" from the top menu and then button "New issue"
+- [ ]  Give it a title (e.g. "Create new web application") and description (e.g.  "Create a new web application where user can manage their inventory sales items. User can add new items, delete and browse them. Create also test list of items in local database.")
+- [ ]  Click "Create"
+ 💡 **Details**The more detailed description you give the better results you will get. Think this as you would write an issue to any human developer or team member.
+
 
 💡 **Be curious!** Ask follow-ups. Ask *why*. Modify prompts.  
 Try *Ask*, *Explain*, *Generate*, and *Edit* modes to see how each behaves.
