@@ -14,13 +14,14 @@ You’ll work inside your own repository, experimenting freely and discovering h
 <details>
 <summary>🔹 <b>1️⃣ Create GitHub account if you do not already have one</b></summary>
 
-      - [ ]  Go to: github.com  
-      
-      - [ ] From upper right corner click: Sign up
-            <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-            <br>
-      - [ ]  Fill in required information and follow the process and then sign in
+- [ ]  Go to: github.com  
+
+- [ ] From upper right corner click: Sign up
+      <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
+      <br>
+- [ ]  Fill in required information and follow the process and then sign in
 </details>
+
 <details>
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
@@ -43,7 +44,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 Try questions like:
 - [ ]  Click your profile picture at the top right and choose  "Repositories" from the menu <br>
       <img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/e7ad7952-dcc7-4fca-ba1a-3ec94d9a65f3" />
-      <br>     
+         
 - [ ]  Click "New" button to create new repo. Give it a name and description (like "This is a web application to manage inventory")
 - [ ] Click "Issues" from the top menu and then button "New issue"
 - [ ]  Give it a title (e.g. "Create new web application") and description (e.g.  "Create a new web application where user can manage their inventory sales items. User can add new items, delete and browse them. Create also test list of items in local database.")
@@ -64,7 +65,7 @@ Now that the issue is created when can give it to the Copilot Coding Agent and f
 
 - [ ] Click "Assign to Copilot"
       <img width="541" height="294" alt="image" src="https://github.com/user-attachments/assets/db85f0a1-eb39-4d05-ab2a-7e72e5fd73a1" />
-      <br>
+      
 - [ ] Write additional instructions to "Optional prompt" if you like but it is not mandatory
 - [ ] Click "Assign"
 
