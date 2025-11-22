@@ -24,12 +24,11 @@ You’ll work inside your own repository, experimenting freely and discovering h
 > ⚠️ Copilot never commits code without your consent, but keep your hackathon work isolated.
 </details>
 
----
-
 <details>
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
 - [ ] If you already had GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled
+      https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent
 - [ ] Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for Pro and follow the process
 
 📘 **Documentation:**
