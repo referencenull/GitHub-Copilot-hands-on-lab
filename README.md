@@ -83,6 +83,10 @@ Next we can follow what the Coding Agent is doing:
 
 </details>
 
+## 🧩 Phase 3 – Open repo in Codespaces
+
+**Goal:** Use GitHub cloud based coding environment and Copilot in VS Code
+
 <details>
 <summary>🔹 <b>5️⃣ Open the repo in Codespace and explore Copilot in Visual Studio Code</b></summary>
 
@@ -103,6 +107,7 @@ And now we are ready to go
 
 ---
 
+## 🧩 Phase 4 – Open repo in Codespaces
 <details>
 <summary>🔹 <b>8️⃣ Generate a new issue</b></summary>
 
@@ -131,7 +136,7 @@ Observe how the Coding Agent interprets and plans the task.
 
 ---
 
-## 🧮 Phase 4 – Reviewing and Reflection
+## 🧮 Phase 5 – Reviewing and Reflection
 
 **Goal:** Use Copilot to review and reason about existing work.
 
