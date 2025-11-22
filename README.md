@@ -107,7 +107,7 @@ And now we are ready to go
 
 ---
 
-## 🧩 Phase 4 – Open repo in Codespaces
+## 🧩 Phase 4 – Back to GitHub.com and Coding Agent
 <details>
 <summary>🔹 <b>8️⃣ Generate a new issue</b></summary>
 
@@ -136,7 +136,7 @@ Observe how the Coding Agent interprets and plans the task.
 
 ---
 
-## 🧮 Phase 5 – Reviewing and Reflection
+## 🧮 Phase 5 – Run program in Codespaces
 
 **Goal:** Use Copilot to review and reason about existing work.
 
@@ -156,6 +156,24 @@ Copilot will analyze the diff and comment directly on the PR.
 </details>
 
 ---
+## 🧮 Phase 6 – Modify application using Copilot
+
+**Goal:** Use Copilot to review and reason about existing work.
+
+<details>
+<summary>🔹 <b>🔟 Request a Copilot code review (on GitHub.com)</b></summary>
+
+- [ ] Go to your repository on **GitHub.com**.  
+- [ ] Find an existing Pull Request (in your org’s main project or your own branch).  
+- [ ] Assign **@copilot** as a reviewer.  
+
+Copilot will analyze the diff and comment directly on the PR.
+
+> ⚠️ This action **updates the PR** with Copilot’s review comments.  
+> 💡 *Alternative:* If you prefer, create a **duplicate PR** (from your hackathon branch) and assign Copilot there — this preserves the original untouched.
+
+📘 [Using Copilot for Pull Request reviews](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review)
+</details>
 
 ## 🧠 Optional – Share Your Insights
 
