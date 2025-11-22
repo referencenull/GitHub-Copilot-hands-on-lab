@@ -89,14 +89,16 @@ Next we can follow what the Coding Agent is doing:
 - [ ] Click green "Code"-button, select Codespaces and "Create Codespaces on main" and wait the environment to be set up.
 - [ ] When the CS Code environment is setup the GitHub Copilot is ready to use and can be found on the left of the screen, but we still need to finish the setup to enable AI features from the bottom right corner
        <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" />
-      And now we are ready to go
+       
+And now we are ready to go
 - [ ] First we could generate the instruction file for Copilot by clicking "Generate agent insctructions"
       <img width="236" height="200" alt="image" src="https://github.com/user-attachments/assets/15ee7203-c44a-4a0e-84fb-9bbf31a96bc1" />
+      
 - [ ] We can follow Copilot working and accept its suggestions when it needs our interaction e.g. running commands on console. It might also ask more details to which you can answer by writing 
 - [ ] When Copilot is done with the work you can push green "Keep" button to keep the code changes
 - [ ] 
 
-
+</details>
 
 ---
 
