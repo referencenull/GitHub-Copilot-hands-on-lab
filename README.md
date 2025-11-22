@@ -79,7 +79,7 @@ Next we can follow what the Coding Agent is doing:
       The whole activity can take over 10 minutes so let's come back later to see the complete process and meanwhile do something else.
 
 📘 [About GitHub Coding Agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
----
+
 </details>
 
 <details>
