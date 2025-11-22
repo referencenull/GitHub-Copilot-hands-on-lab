@@ -14,12 +14,12 @@ You’ll work inside your own repository, experimenting freely and discovering h
 <details>
 <summary>🔹 <b>1️⃣ Create GitHub account if you do not already have one</b></summary>
 
-- [ ]  Go to: github.com  
-
-- [ ] From upper right corner click: Sign up
-      <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-      <br>
-- [ ]  Fill in required information and follow the process and then sign in
+      - [ ]  Go to: github.com  
+      
+      - [ ] From upper right corner click: Sign up
+            <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
+            <br>
+      - [ ]  Fill in required information and follow the process and then sign in
 </details>
 <details>
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
