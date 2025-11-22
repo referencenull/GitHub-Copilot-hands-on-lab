@@ -7,22 +7,22 @@ You’ll work inside your own repository, experimenting freely and discovering h
 
 ---
 
-## 🧭 Phase 1 – Setup & Preparation
+## 🧭 Phase 0 (prerequisites) – Setup & Preparation
 
-**Goal:** Get your environment and repository ready for Copilot experimentation.
+**Goal:** Get your environment ready for Copilot experimentation.
 
 <details>
-<summary>🔹 <b>1️⃣ Find or fork a project</b></summary>
+<summary>🔹 <b>1️⃣ Create GitHub account if you do not already have one</b></summary>
 
-- [ ] Pick a repository you’re comfortable working in — any language works.  
+- [ ]  Go to: github.com 
   You can:
   - Use an existing project you maintain.  
   - Fork a public repo (e.g. from [GitHub Explore](https://github.com/explore)).  
 
-- [ ] Copy the markdown of this issue into your own issue in your working repo so that you can modify it.  
+- [ ] From upper right corner click: Sign up
+      <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
 
-- [ ] Create a **new branch**, e.g. `copilot-hackathon`.  
-  Keep all experiments in this branch — do **not** modify your `main`.
+- [ ]  Fill in required information and follow the process and then sign in
 
 > ⚠️ Copilot never commits code without your consent, but keep your hackathon work isolated.
 </details>
