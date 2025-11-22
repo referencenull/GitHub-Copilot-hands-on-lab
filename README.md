@@ -2,8 +2,8 @@
 # https://github.com/referencenull/GitHub-Copilot-hands-on-lab
 
 Welcome to the **GitHub Copilot Hands-On Lab**!  
-This challenge will guide you through some of the Copilot features — from *Ask* and *Edit* and *Plan* modes to *MCP-powered issues*, *Copilot Coding Agent*, and *AI PR reviews*.  
-You’ll work inside your own repository, experimenting freely and discovering how Copilot transforms your workflow.
+This challenge will guide you through some of the Copilot features — from *Ask* and *Edit* and *Plan* modes to  *Copilot Coding Agent*.  
+You’ll work inside your own repository, experimenting freely and discovering how Copilot transforms your workflow and way of working.
 
 ---
 
@@ -20,9 +20,6 @@ You’ll work inside your own repository, experimenting freely and discovering h
       <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
       <br>
 - [ ]  Fill in required information and follow the process and then sign in
-
-> ⚠️ Copilot never commits code without your consent, but keep your hackathon work isolated.
-</details>
 
 <details>
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
@@ -41,7 +38,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 **Goal:** Setup basic envrionment/repo where you can test and try GitHub Copilot
 
 <details>
-<summary>🔹 <b>4️⃣ Create empty repo with one issue</b></summary>
+<summary>🔹 <b>3️⃣ Create empty repo and issue</b></summary>
 
 Try questions like:
 - [ ]  Click your profile picture at the top right and choose  "Repositories" from the menu <br>
@@ -55,23 +52,20 @@ Try questions like:
 </details>
 ---
 
-## 🧩 Phase 3 – Assign issue to Coding Agent
+## 🧩 Phase 2 – Assign issue to Coding Agent
 
-**Goal:** Use Copilot’s MCP connection to explore, understand, and create issues.
+**Goal:** Let the Coding Agent do all the work.
 
 <details>
-<summary>🔹 <b>6️⃣ Explore and discuss issues (via MCP)</b></summary>
+<summary>🔹 <b>4️⃣ Assign issue to Coding Agent and let it work on the background</b></summary>
 
-Now that the `github-remote` MCP server is configured:
+Now that the issue is created when can give it to the Copilot Coding Agent and find out what happens:
 
-- [ ] Use Copilot Chat to list or summarize issues in your repo.  
-  Examples:
-  - “List open issues in this repo.”  
-  - “Summarize issue #12.”  
-  - “Suggest next steps for this bug.”  
-  - “How could we improve code related to this issue?”
+- [ ] Click "Assign to Copilot"
 
-📘 [Using GitHub Copilot in Issues](https://docs.github.com/en/copilot/how-tos/chat-with-copilot/chat-in-ide)
+      <img width="541" height="294" alt="image" src="https://github.com/user-attachments/assets/4dfa8c08-c103-43a2-8914-8e1baa48a2a8" />
+
+📘 [About GitHub Coding Agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
 </details>
 
 ---
