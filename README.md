@@ -35,7 +35,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 📘 **Documentation:**
 - [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 - [Setting up GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/setup)
-
+</details>
 ---
 
 ## 💬 Phase 2 – Exploring Copilot Chat Modes
