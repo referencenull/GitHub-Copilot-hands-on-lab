@@ -50,53 +50,12 @@ Try questions like:
 - [ ] Click "Issues" from the top menu and then button "New issue"
 - [ ]  Give it a title (e.g. "Create new web application") and description (e.g.  "Create a new web application where user can manage their inventory sales items. User can add new items, delete and browse them. Create also test list of items in local database.")
 - [ ]  Click "Create"
+      
  💡 **Details**The more detailed description you give the better results you will get. Think this as you would write an issue to any human developer or team member.
 
-
-💡 **Be curious!** Ask follow-ups. Ask *why*. Modify prompts.  
-Try *Ask*, *Explain*, *Generate*, and *Edit* modes to see how each behaves.
-
-- [ ] Switch between models (e.g. `GPT-5`, `Claud Sonnet 4.5`, `Claud Haiku 4.5`) and compare reasoning quality.
-
-📘 [Use Copilot Chat to understand code](https://docs.github.com/en/copilot/github-copilot-chat/understanding-your-code-with-github-copilot-chat)
-</details>
-
 ---
 
-<details>
-<summary>🔹 <b>5️⃣ Generate a <code>copilot_instructions.md</code> file</b></summary>
-
-Copilot can generate **project setup and context notes** automatically — this file helps Copilot understand your project and coding style better.
-
-### 💡 Why we’re doing this
-The `copilot_instructions.md` file acts as a **knowledge source** for Copilot.  
-It summarizes:
-- How the project is structured  
-- How to build and run it  
-- Key dependencies, conventions, and folders  
-
-When this file exists, Copilot can use it to **reason more effectively** about your codebase — for example, it can:
-- Give more accurate answers when you ask questions about the project.  
-- Provide better suggestions for refactoring, debugging, and tests.  
-- Maintain consistent terminology and architecture decisions in its output.
-
-Think of it as giving Copilot a “project briefing document”.
-
-### 🧭 Steps
-- [ ] Open the **Command Palette** (`Ctrl/Cmd + Shift + P`)  
-- [ ] Search for **“Copilot: Generate Project Instructions”**  
-- [ ] Follow the prompts to create a new file named `copilot_instructions.md`  
-
-Once it’s created, open the file and read what Copilot generated.  
-You can edit and expand this file — Copilot will use any updates in future conversations.
-
-📘 **Documentation:**  
-[Generate project instructions with Copilot](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions)
-</details>
-
----
-
-## 🧩 Phase 3 – Working with Issues via MCP
+## 🧩 Phase 3 – Assign issue to Coding Agent
 
 **Goal:** Use Copilot’s MCP connection to explore, understand, and create issues.
 
