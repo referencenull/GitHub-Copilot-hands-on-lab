@@ -63,17 +63,17 @@ Try questions like:
 
 Now that the issue is created when can give it to the Copilot Coding Agent and find out what happens:
 
-- [ ] Click "Assign to Copilot"
+- [ ] Click "Assign to Copilot" <br>
       <img width="541" height="294" alt="image" src="https://github.com/user-attachments/assets/db85f0a1-eb39-4d05-ab2a-7e72e5fd73a1" />
       
 - [ ] Write additional instructions to "Optional prompt" if you like but it is not mandatory
 - [ ] Click "Assign"
 
 Next we can follow what the Coding Agent is doing:
-- [ ] Click "WIP..." (followed by your issues title) link
+- [ ] Click "WIP..." (followed by your issues title) link <br>
       <img width="94" height="89" alt="image" src="https://github.com/user-attachments/assets/e18fa4c6-ee0c-45a6-a374-2c20c0a3e413" />
 
-- [ ] Here the Coding Agent will update it work but to look deeper what it is doing you can click "View session" button:
+- [ ] Here the Coding Agent will update it work but to look deeper what it is doing you can click "View session" button: <br>
       <img width="314" height="118" alt="image" src="https://github.com/user-attachments/assets/dafceb61-2153-4373-acc8-3e1dc206fe1f" />
 
 - [ ] See and explore what Coding agent is doing.
@@ -96,7 +96,7 @@ Next we can follow what the Coding Agent is doing:
        <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" />
        
 And now we are ready to go
-- [ ] First we could generate the instruction file for Copilot by clicking "Generate agent insctructions"
+- [ ] First we could generate the instruction file for Copilot by clicking "Generate agent insctructions" <br>
       <img width="236" height="200" alt="image" src="https://github.com/user-attachments/assets/15ee7203-c44a-4a0e-84fb-9bbf31a96bc1" />
       
 - [ ] We can follow Copilot working and accept its suggestions when it needs our interaction e.g. running commands on console. It might also ask more details to which you can answer by writing 
