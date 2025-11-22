@@ -52,7 +52,7 @@ Try questions like:
 - [ ]  Click "Create"
       
  💡 **Details**The more detailed description you give the better results you will get. Think this as you would write an issue to any human developer or team member.
-
+</details>
 ---
 
 ## 🧩 Phase 3 – Assign issue to Coding Agent
