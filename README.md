@@ -14,14 +14,11 @@ You’ll work inside your own repository, experimenting freely and discovering h
 <details>
 <summary>🔹 <b>1️⃣ Create GitHub account if you do not already have one</b></summary>
 
-- [ ]  Go to: github.com 
-  You can:
-  - Use an existing project you maintain.  
-  - Fork a public repo (e.g. from [GitHub Explore](https://github.com/explore)).  
+- [ ]  Go to: github.com  
 
 - [ ] From upper right corner click: Sign up
       <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-
+      </br>
 - [ ]  Fill in required information and follow the process and then sign in
 
 > ⚠️ Copilot never commits code without your consent, but keep your hackathon work isolated.
@@ -32,33 +29,12 @@ You’ll work inside your own repository, experimenting freely and discovering h
 <details>
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
-- [ ] Make sure the **GitHub Copilot** extension is installed and active in your IDE.  
-- [ ] Ensure you also have **Copilot Chat** available (and optionally **Copilot Edits/Agent** features if supported by your IDE).
+- [ ] If you already had GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled
+- [ ] Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for Pro and follow the process
 
 📘 **Documentation:**
 - [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 - [Setting up GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/setup)
-
-> 💡 You don’t need three separate installs — Copilot Chat and Edits are included in most IDE integrations.  
-> Just verify both completions and chat are visible in your IDE.
-</details>
-
----
-
-<details>
-<summary>🔹 <b>3️⃣ Configure the GitHub MCP server</b></summary>
-
-We’ll use **Copilot MCP** to let Copilot Chat access your repo and issues.
-
-- [ ] In your **new branch**, create a folder `.vscode` if it doesn’t exist.  
-- [ ] Inside it, create a file named `mcp.json`.  
-- [ ] Copy content from 👉 [`.vscode/mcp.json`](https://github.com/Jfhelin/hack/blob/main/.vscode/mcp.json).  
-- [ ] Commit the file to your current branch.
-- [ ] Observe and click the 'start' link on the top of the definition text in the mcp.json file. 
-
-📘 **Learn more:**  
-[Understanding MCP and connecting Copilot to external resources](https://code.visualstudio.com/docs/copilot/customization/mcp-servers)
-</details>
 
 ---
 
