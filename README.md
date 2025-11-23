@@ -142,16 +142,17 @@ Observe how the Coding Agent interprets and plans the task.
 ## 🧮 Phase 5 – Create issue from VS Code and assign it to Coding Agent
 
 <details>
-<summary>🔹 <b>🔟 Create a new issue and give it to Coding Agent to work in the background
+<summary>🔹 <b>🔟 Create a new issue and give it to Coding Agent to work in the background</b>
 
 - [ ] From the menu on the left in VS code click GitHub icon and then "+" to create an new issue  <br>
       <img width="252" height="166" alt="image" src="https://github.com/user-attachments/assets/128bcfca-44c4-49ed-99b9-a8f620fa6311" /> <br>
       Change "Issue Title" to "Add images" <br>
       Add description like "Add images to product. Add also test images to the database" <br>
-      Then create issue by clicking the  
+      Then create issue by clicking the check mark <br>
+      <img width="186" height="60" alt="image" src="https://github.com/user-attachments/assets/4c0bee8c-1688-4246-995a-19a5ba2f2e8b" /> <br>
 
-- [ ] Find an existing Pull Request (in your org’s main project or your own branch).  
-- [ ] Assign **@copilot** as a reviewer.  
+- [ ] Open the newly created issue and assign it to Copilot. You can see Copilot starting to work on it 
+- [ ] You can also watch the progress by clicking from the left menu the "Agent sessions"  
 
 Copilot will analyze the diff and comment directly on the PR.
 
