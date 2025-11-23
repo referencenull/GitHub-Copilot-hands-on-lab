@@ -101,7 +101,7 @@ And now we are ready to go
       
 - [ ] We can follow Copilot working and accept its suggestions when it needs our interaction e.g. running commands on console. It might also ask more details to which you can answer by writing 
 - [ ] When Copilot is done with the work you can push green "Keep" button to keep the code changes
-- [ ] 
+- [ ] Explore the copilot-instructions.md file that was created. This is where you can easily put general coding instructions for Copilot.
 
 </details>
 
@@ -109,25 +109,28 @@ And now we are ready to go
 
 ## 🧩 Phase 4 – Back to GitHub.com and Coding Agent
 <details>
-<summary>🔹 <b>8️⃣ Generate a new issue</b></summary>
+<summary>🔹 <b>8️⃣ Let's explore what coding agent has done and accept the pull request it made</b></summary>
 
-Once you’ve discussed a potential change, ask Copilot Chat to create a new issue.
+Now the coding agent should have finished it work and we can see what it came up with
 
-- [ ] “Generate a new issue proposing a refactor of this method.”  
-- [ ] “File an issue to add input validation.”  
+- [ ] Go to "Pull requests" from the top menu then open the pull request shown  
+- [ ] Explore the outcome of Copilot, scroll down and click "Ready for review" button and then "Merge pull request" button when it turns green and finally "Confirm merge" 
 
-Let Copilot generate the issue content directly.
+Now the code that Copilot created has been pulled to our codebase
 </details>
 
 ---
 
 <details>
-<summary>🔹 <b>9️⃣ Assign the new issue to Copilot Coding Agent</b></summary>
+<summary>🔹 <b>9️⃣ Back to Codespaces to explore and modify the code</b></summary>
 
-You can do this in two ways:
+- [ ] From left menu open "Source control" and then pull the changes Copilot made <br>
+      <img width="357" height="274" alt="image" src="https://github.com/user-attachments/assets/d3ffa87c-c1ae-4f16-ae30-86b233b385ef" /> <br>
 
-- [ ] In Copilot Chat, say **“Assign this issue to the Copilot Coding Agent.”**  
-- [ ] **Or** on **GitHub.com** → open the issue → click **Assignees** → select **@copilot**.
+- [ ] Now we can run the application Copilot has created to us. But how? Let's ask from Copilot. Notice that you can insert the commands Copilot suggest directly to console.
+- [ ] Let's do some code changes. Maybe add button that blows confetti on the screen? Remember to accept the code suggestion by clicking the green "Keep" 
+- [ ] You can also ask Copilot to explain the code and maybe create html documentation.
+- [ ] 
 
 Observe how the Coding Agent interprets and plans the task.
 
@@ -136,14 +139,17 @@ Observe how the Coding Agent interprets and plans the task.
 
 ---
 
-## 🧮 Phase 5 – Run program in Codespaces
-
-**Goal:** Use Copilot to review and reason about existing work.
+## 🧮 Phase 5 – Create issue from VS Code and assign it to Coding Agent
 
 <details>
-<summary>🔹 <b>🔟 Request a Copilot code review (on GitHub.com)</b></summary>
+<summary>🔹 <b>🔟 Create a new issue and give it to Coding Agent to work in the background
 
-- [ ] Go to your repository on **GitHub.com**.  
+- [ ] From the menu on the left in VS code click GitHub icon and then "+" to create an new issue  <br>
+      <img width="252" height="166" alt="image" src="https://github.com/user-attachments/assets/128bcfca-44c4-49ed-99b9-a8f620fa6311" /> <br>
+      Change "Issue Title" to "Add images" <br>
+      Add description like "Add images to product. Add also test images to the database" <br>
+      Then create issue by clicking the  
+
 - [ ] Find an existing Pull Request (in your org’s main project or your own branch).  
 - [ ] Assign **@copilot** as a reviewer.  
 
