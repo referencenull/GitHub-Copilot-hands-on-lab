@@ -142,7 +142,7 @@ Observe how the Coding Agent interprets and plans the task.
 ## 🧮 Phase 5 – Create issue from VS Code and assign it to Coding Agent
 
 <details>
-<summary>🔹 <b>🔟 Create a new issue and give it to Coding Agent to work in the background</b>
+<summary>🔹 <b>🔟 Create a new issue and give it to Coding Agent to work in the background</b></summary>
 
 - [ ] From the menu on the left in VS code click GitHub icon and then "+" to create an new issue  <br>
       <img width="252" height="166" alt="image" src="https://github.com/user-attachments/assets/128bcfca-44c4-49ed-99b9-a8f620fa6311" /> <br>
