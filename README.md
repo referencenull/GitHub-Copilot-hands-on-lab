@@ -17,7 +17,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 - [ ]  Go to: github.com  
 
 - [ ] From upper right corner click: Sign up <br>
-      <img width="357" height="150" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
+      <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
       <br>
 - [ ]  Fill in required information and follow the process and then sign in
 </details>
