@@ -26,8 +26,8 @@ You’ll work inside your own repository, experimenting freely and discovering h
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
 - [ ] IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled <br>
-      https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent
-      OR 
+      https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent<br>
+      OR <br>
 - [ ] Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for GitHub Copilot Pro  and follow the activation process
 
 📘 **Documentation:**
