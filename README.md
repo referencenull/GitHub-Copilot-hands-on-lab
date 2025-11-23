@@ -25,13 +25,13 @@ You’ll work inside your own repository, experimenting freely and discovering h
 <details>
 <summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
-- [ ] If you already had GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled
+- [ ] IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled <br>
       https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent
-- [ ] Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for Pro and follow the process
+      OR 
+- [ ] Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for GitHub Copilot Pro  and follow the activation process
 
 📘 **Documentation:**
 - [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
-- [Setting up GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/setup)
 </details>
 
 ## 💬 Phase 1 – Create repo and issue
@@ -51,12 +51,12 @@ Try questions like:
 - [ ]  Click "Add README" toogle from "Off" to "On"
 - [ ]  Click "Create"
       
- 💡 **Details**The more detailed description you give the better results you will get. Think this as you would write an issue to any human developer or team member.
+ 💡 **Details**The more detailed description you give the better results you will get later from Copilot. Think this as you would write an issue to any human developer or team member.
 </details>
 
 ## 🧩 Phase 2 – Assign issue to Coding Agent
 
-**Goal:** Let the Coding Agent do all the work.
+**Goal:** Let the Coding Agent do the work.
 
 <details>
 <summary>🔹 <b>4️⃣ Assign issue to Coding Agent and let it work on the background</b></summary>
@@ -64,7 +64,7 @@ Try questions like:
 Now that the issue is created when can give it to the Copilot Coding Agent and find out what happens:
 
 - [ ] Click "Assign to Copilot" <br>
-      <img width="541" height="294" alt="image" src="https://github.com/user-attachments/assets/db85f0a1-eb39-4d05-ab2a-7e72e5fd73a1" />
+      <img width="486" height="265" alt="image" src="https://github.com/user-attachments/assets/db85f0a1-eb39-4d05-ab2a-7e72e5fd73a1" />
       
 - [ ] Write additional instructions to "Optional prompt" if you like but it is not mandatory
 - [ ] Click "Assign"
