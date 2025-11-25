@@ -178,7 +178,9 @@ Now the code that Copilot created has been pulled to our codebase
 - [ ] Open the newly created issue and assign it to Copilot. You can see Copilot starting to work on it
 - [ ] You can also watch the progress by clicking from the left menu the "Agent sessions"
 - [ ] And also as previously go to GitHub.com and "Pull requests" to see the progress .
+- [ ] Maybe open some code file, select few lines of code and ask Copilot to explain the code?
 
+</details>
 ---
 
 ## 🧠 Optional 1 – Try again creating new repo and new solution. Focus more on descriptions of repo, README and issues.
