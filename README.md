@@ -24,7 +24,7 @@ Before starting this lab, ensure you have:
 - [ ] GitHub Copilot license
       <details>
       <summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
-                         IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled <br>
+                         IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled                         <br>
                         https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent<br>
                         OR <br>
                         Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for                          GitHub Copilot Pro  and follow the activation process
@@ -40,35 +40,7 @@ By the end of this lab, you will:
 - Set up your GitHub account and access GitHub Copilot
 - Create applications using various GitHub Copilot tools
 - Use GitHub Copilot to understand and improve existing code
-- Generate documentation with AI assistance
-- Explore advanced GitHub Copilot features
 
-## 🧭 Phase 0 (prerequisites) – Setup & Preparation
-
-**Goal:** Get your environment ready for Copilot experimentation.
-
-<details>
-<summary>🔹 <b>0️⃣ Create GitHub account if you do not already have one</b></summary>
-
-- [ ]  Go to: github.com  
-
-- [ ] From upper right corner click: Sign up <br>
-      <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-      <br>
-- [ ]  Fill in required information and follow the process and then sign in
-</details>
-
-<details>
-<summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
-
-- [ ] IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled <br>
-      https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent<br>
-      OR <br>
-- [ ] Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for GitHub Copilot Pro  and follow the activation process
-
-📘 **Documentation:**
-- [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
-</details>
 
 ## 💬 Phase 1 – Create repo and issue
 
