@@ -10,7 +10,6 @@ You’ll work inside your own repository, experimenting freely and discovering h
 ## 📋 Prerequisites
 
 Before starting this lab, ensure you have:
-- [ ] Laptop at the event
 - [ ] GitHub account
       <details>
       <summary>🔹 <b>0️⃣ Create GitHub account if you do not already have one</b></summary>
