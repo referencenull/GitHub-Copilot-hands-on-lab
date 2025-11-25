@@ -12,7 +12,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 **Goal:** Get your environment ready for Copilot experimentation.
 
 <details>
-<summary>🔹 <b>1️⃣ Create GitHub account if you do not already have one</b></summary>
+<summary>🔹 <b>0️⃣ Create GitHub account if you do not already have one</b></summary>
 
 - [ ]  Go to: github.com  
 
@@ -23,7 +23,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 </details>
 
 <details>
-<summary>🔹 <b>2️⃣ Ensure GitHub Copilot is enabled</b></summary>
+<summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
 - [ ] IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled <br>
       https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent<br>
@@ -39,7 +39,7 @@ You’ll work inside your own repository, experimenting freely and discovering h
 **Goal:** Setup basic envrionment/repo where you can test and try GitHub Copilot
 
 <details>
-<summary>🔹 <b>3️⃣ Create empty repo and issue</b></summary>
+<summary>🔹 <b>2️⃣ Create empty repo and issue</b></summary>
 
 Try questions like:
 - [ ]  Click your profile picture at the top right and choose  "Repositories" from the menu <br>
@@ -51,7 +51,7 @@ Try questions like:
 - [ ]  Click "Add README" toogle from "Off" to "On"
 - [ ]  Click "Create"
       
- 💡 **Details**The more detailed description you give the better results you will get later from Copilot. Think this as you would write an issue to any human developer or team member.
+ 💡 **Details** The more detailed description you give the better results you will get later from Copilot. Think this as you would write an work description to any human developer or team member.
 </details>
 
 ## 🧩 Phase 2 – Assign issue to Coding Agent
@@ -59,14 +59,14 @@ Try questions like:
 **Goal:** Let the Coding Agent do the work.
 
 <details>
-<summary>🔹 <b>4️⃣ Assign issue to Coding Agent and let it work on the background</b></summary>
+<summary>🔹 <b>3️⃣ Assign issue to Coding Agent and let it work on the background</b></summary>
 
-Now that the issue is created when can give it to the Copilot Coding Agent and find out what happens:
+Now that the issue is created we can give it to the Copilot Coding Agent to work on and find out what happens:
 
 - [ ] Click "Assign to Copilot" <br>
       <img width="486" height="265" alt="image" src="https://github.com/user-attachments/assets/db85f0a1-eb39-4d05-ab2a-7e72e5fd73a1" />
       
-- [ ] Write additional instructions to "Optional prompt" if you like but it is not mandatory
+- [ ] Optional: Write additional instructions to "Optional prompt" if you like
 - [ ] Click "Assign"
 
 Next we can follow what the Coding Agent is doing:
@@ -85,23 +85,40 @@ Next we can follow what the Coding Agent is doing:
 
 ## 🧩 Phase 3 – Open repo in Codespaces
 
-**Goal:** Use GitHub cloud based coding environment and Copilot in VS Code
+**Goal:** Use Copilot in VS Code from GitHub cloud based coding environment, Codespaces.
 
 <details>
-<summary>🔹 <b>5️⃣ Open the repo in Codespace and explore Copilot in Visual Studio Code</b></summary>
+<summary>🔹 <b>4️⃣ Open the repo in Codespaces and explore Copilot in Visual Studio Code</b></summary>
 
-- [ ] Click "<>Code" from the top left  
-- [ ] Click green "Code"-button, select Codespaces and "Create Codespaces on main" and wait the environment to be set up.
-- [ ] When the CS Code environment is setup the GitHub Copilot is ready to use and can be found on the left of the screen, but we still need to finish the setup to enable AI features from the bottom right corner <br>
+- [ ] Click "<>Code" from the top menu  
+- [ ] Click green "Code"-button, select Codespaces and "Create Codespaces on main" and wait the environment to be set up. Codespaces is a cloud development environment created to you automatically by GitHub. 
+- [ ] When the VS Code environment is setup GitHub Copilot is almost ready to use and can be found on the right of the screen, but we still need to finish the setup to enable AI features from the bottom right corner <br>
        <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" />
        
 And now we are ready to go
-- [ ] First we could generate the instruction file for Copilot by clicking "Generate agent insctructions" <br>
-      <img width="236" height="200" alt="image" src="https://github.com/user-attachments/assets/15ee7203-c44a-4a0e-84fb-9bbf31a96bc1" />
+- [ ] First we could generate the instruction file, as suggested, for Copilot by clicking "Generate agent insctructions" <br>
+      <img width="236" height="200" alt="image" src="https://github.com/user-attachments/assets/15ee7203-c44a-4a0e-84fb-9bbf31a96bc1" /> <br>
       
-- [ ] We can follow Copilot working and accept its suggestions when it needs our interaction e.g. running commands on console. It might also ask more details to which you can answer by writing 
+- [ ] We can follow Copilot working and accept its suggestions when it needs our interaction e.g. running commands on console. It might also ask more details from you.
 - [ ] When Copilot is done with the work you can push green "Keep" button to keep the code changes
-- [ ] Explore the copilot-instructions.md file that was created. This is where you can easily put general coding instructions for Copilot.
+- [ ] Explore the copilot-instructions.md file that was created. This is where you can easily put general coding instructions for Copilot .i.e. coding standards, frameworks to use, workflows, repositiry structure...
+
+</details>
+<details>
+<summary>🔹 <b>5️⃣ Explore different modes of Copilot</b></summary>
+
+- [ ] There are different options how you can use Copilot: Ask, Edit and Agent. <br>
+Ask Mode
+
+Ask mode is designed for quick, context-aware answers to programming questions. It allows you to highlight code, type a query, and receive explanations, suggestions, or code snippets without modifying your code. This mode is ideal for understanding code functionality, exploring libraries, or solving specific problems like structuring SQL queries or debugging JavaScript closures. It’s a lightweight, non-intrusive way to get unstuck while staying focused on your task.
+
+Edit Mode
+
+Edit mode enables you to make precise code changes across one or more files by describing the desired updates in natural language. Copilot generates inline, review-ready edits, allowing you to approve or reject changes before they are applied. This mode is perfect for tasks like refactoring, adding error handling, or adhering to specific coding standards. It ensures you remain in control while accelerating repetitive or tedious tasks
+
+Agent Mode
+
+Agent mode is the most powerful and autonomous of the three. It allows Copilot to execute high-level tasks, such as building features, fixing bugs, or scaffolding entire sections of an application. Unlike Edit mode, Agent mode reasons across your entire project, applies multi-step changes, and runs commands or tools as needed. While it automates complex workflows, it requires clear instructions and is best suited for experienced developers who can guide its actions effectively 
 
 </details>
 
@@ -109,7 +126,7 @@ And now we are ready to go
 
 ## 🧩 Phase 4 – Back to GitHub.com and Coding Agent
 <details>
-<summary>🔹 <b>8️⃣ Let's explore what coding agent has done and accept the pull request it made</b></summary>
+<summary>🔹 <b>6️⃣Let's explore what coding agent has done and accept the pull request it made</b></summary>
 
 Now the coding agent should have finished it work and we can see what it came up with
 
@@ -122,7 +139,7 @@ Now the code that Copilot created has been pulled to our codebase
 ---
 
 <details>
-<summary>🔹 <b>9️⃣ Back to Codespaces to explore and modify the code</b></summary>
+<summary>🔹 <b>7️⃣ Back to Codespaces to explore and modify the code</b></summary>
 
 - [ ] From left menu open "Source control" and then pull the changes Copilot made <br>
       <img width="357" height="274" alt="image" src="https://github.com/user-attachments/assets/d3ffa87c-c1ae-4f16-ae30-86b233b385ef" /> <br>
@@ -139,10 +156,10 @@ Observe how the Coding Agent interprets and plans the task.
 
 ---
 
-## 🧮 Phase 5 – Create issue from VS Code and assign it to Coding Agent
+## 🧮 Phase 5 – Modify application using Copilot
 
 <details>
-<summary>🔹 <b>🔟 Create a new issue and give it to Coding Agent to work in the background</b></summary>
+<summary>🔹 <b>8️⃣ Modify application by creating a new issue and give it to Coding Agent to work in the background</b></summary>
 
 - [ ] From the menu on the left in VS code click GitHub icon and then "+" to create an new issue  <br>
       <img width="252" height="166" alt="image" src="https://github.com/user-attachments/assets/128bcfca-44c4-49ed-99b9-a8f620fa6311" /> <br>
@@ -151,16 +168,9 @@ Observe how the Coding Agent interprets and plans the task.
       Then create issue by clicking the check mark <br>
       <img width="186" height="60" alt="image" src="https://github.com/user-attachments/assets/4c0bee8c-1688-4246-995a-19a5ba2f2e8b" /> <br>
 
-- [ ] Open the newly created issue and assign it to Copilot. You can see Copilot starting to work on it 
-- [ ] You can also watch the progress by clicking from the left menu the "Agent sessions"  
-
-Copilot will analyze the diff and comment directly on the PR.
-
-> ⚠️ This action **updates the PR** with Copilot’s review comments.  
-> 💡 *Alternative:* If you prefer, create a **duplicate PR** (from your hackathon branch) and assign Copilot there — this preserves the original untouched.
-
-📘 [Using Copilot for Pull Request reviews](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review)
-</details>
+- [ ] Open the newly created issue and assign it to Copilot. You can see Copilot starting to work on it
+- [ ] You can also watch the progress by clicking from the left menu the "Agent sessions"
+- [ ] And also as previously go to GitHub.com and "Pull requests" to see the progress .
 
 ---
 ## 🧮 Phase 6 – Modify application using Copilot
@@ -168,7 +178,7 @@ Copilot will analyze the diff and comment directly on the PR.
 **Goal:** Use Copilot to review and reason about existing work.
 
 <details>
-<summary>🔹 <b>🔟 Request a Copilot code review (on GitHub.com)</b></summary>
+<summary>🔹 <b>9️⃣ Request a Copilot code review (on GitHub.com)</b></summary>
 
 - [ ] Go to your repository on **GitHub.com**.  
 - [ ] Find an existing Pull Request (in your org’s main project or your own branch).  
