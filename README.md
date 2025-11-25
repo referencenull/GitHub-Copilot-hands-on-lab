@@ -108,6 +108,7 @@ And now we are ready to go
 <summary>🔹 <b>5️⃣ Explore different modes of Copilot</b></summary>
 
 - [ ] There are different options how you can use Copilot: Ask, Edit and Agent.
+      
 Ask Mode
 
 Ask mode is designed for quick, context-aware answers to programming questions. It allows you to highlight code, type a query, and receive explanations, suggestions, or code snippets without modifying your code. This mode is ideal for understanding code functionality, exploring libraries, or solving specific problems like structuring SQL queries or debugging JavaScript closures. It’s a lightweight, non-intrusive way to get unstuck while staying focused on your task.
@@ -118,7 +119,7 @@ Edit mode enables you to make precise code changes across one or more files by d
 
 Agent Mode
 
-Agent mode is the most powerful and autonomous of the three. It allows Copilot to execute high-level tasks, such as building features, fixing bugs, or scaffolding entire sections of an application. Unlike Edit mode, Agent mode reasons across your entire project, applies multi-step changes, and runs commands or tools as needed. While it automates complex workflows, it requires clear instructions and is best suited for experienced developers who can guide its actions effectively 
+Agent mode is the most powerful and autonomous of the three. It allows Copilot to execute high-level tasks, such as building features, fixing bugs, or scaffolding entire sections of an application. Unlike Edit mode, Agent mode reasons across your entire project, applies multi-step changes, and runs commands or tools as needed. While it automates complex workflows, it requires clear instructions and is best suited for experienced developers who can guide its actions effectively
 
 </details>
 
