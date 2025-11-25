@@ -50,7 +50,7 @@ Try questions like:
       <img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/e7ad7952-dcc7-4fca-ba1a-3ec94d9a65f3" />
          
 - [ ]  Click "New" button to create new repo. Give it a name (i.e.  and description (like "This is a web application to manage inventory")
-- [ ]  Click "Add README" toogle from "Off" to "On"
+- [ ]  Click "Add README" toogle from "Off" to "On" and leave everything else as is
 - [ ]  Click "Create"
 - [ ]  Click "Issues" from the top menu and then button "New issue"
 - [ ]  Give it a title (e.g. "Create new web application") and description (e.g.  "Create a new web application where user can manage their inventory sales items. User can add new items, delete and browse them. Create also test list of items in local database.")
