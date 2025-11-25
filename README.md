@@ -15,17 +15,17 @@ Before starting this lab, ensure you have:
       <details>
       <summary>🔹 <b>0️⃣ Create GitHub account if you do not already have one</b></summary>
       
-      - [ ]  Go to: github.com  
-      
-      - [ ] From upper right corner click: Sign up <br>
-            <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-            <br>
-      - [ ]  Fill in required information and follow the process and then sign in
+- [ ]  Go to: github.com  
+
+- [ ] From upper right corner click: Sign up <br>
+      <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
+      <br>
+- [ ]  Fill in required information and follow the process and then sign in
 </details>
 
 - [ ] Laptop at the event
 <details>
-<summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
+      <summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
 - [ ] IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled <br>
       https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent<br>
