@@ -146,18 +146,16 @@ Now the code that Copilot created has been pulled to our codebase
       <img width="357" height="274" alt="image" src="https://github.com/user-attachments/assets/d3ffa87c-c1ae-4f16-ae30-86b233b385ef" /> <br>
 
 - [ ] Now we can run the application Copilot has created to us. But how? Let's ask from Copilot. Notice that you can insert the commands Copilot suggest directly to console.
-- [ ] Let's do some code changes. Maybe add button that blows confetti on the screen? Remember to accept the code suggestion by clicking the green "Keep" 
+- [ ] Let's do some code changes. Maybe add button that blows confetti on the screen? Remember to accept the code suggestion by clicking the green "Keep"
+      ("Add button that will blow confetti on the screen")
 - [ ] You can also ask Copilot to explain the code and maybe create html documentation.
-- [ ] 
+- [ ] Maybe open some code file, select few lines of code and ask Copilot to explain the code?
 
-Observe how the Coding Agent interprets and plans the task.
-
-📘 [Copilot Coding Agent overview](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
 </details>
 
 ---
 
-## 🧮 Phase 5 – Modify application using Copilot
+## 🧮 Phase 5 – Modify application using Copilot Agent from VS Code
 
 <details>
 <summary>🔹 <b>8️⃣ Modify application by creating a new issue and give it to Coding Agent to work in the background</b></summary>
@@ -174,26 +172,12 @@ Observe how the Coding Agent interprets and plans the task.
 - [ ] And also as previously go to GitHub.com and "Pull requests" to see the progress .
 
 ---
-## 🧮 Phase 6 – Modify application using Copilot
 
-**Goal:** Use Copilot to review and reason about existing work.
+## 🧠 Optional 1 – Try again creating new repo and new solution. Focus more on descriptions of repo, README and issues.
 
-<details>
-<summary>🔹 <b>9️⃣ Request a Copilot code review (on GitHub.com)</b></summary>
+---
 
-- [ ] Go to your repository on **GitHub.com**.  
-- [ ] Find an existing Pull Request (in your org’s main project or your own branch).  
-- [ ] Assign **@copilot** as a reviewer.  
-
-Copilot will analyze the diff and comment directly on the PR.
-
-> ⚠️ This action **updates the PR** with Copilot’s review comments.  
-> 💡 *Alternative:* If you prefer, create a **duplicate PR** (from your hackathon branch) and assign Copilot there — this preserves the original untouched.
-
-📘 [Using Copilot for Pull Request reviews](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/use-code-review)
-</details>
-
-## 🧠 Optional – Share Your Insights
+## 🧠 Optional 2 – Share Your Insights
 
 - [ ] What surprised you most about Copilot’s behavior?  
 - [ ] Did different models produce noticeably different results?  
@@ -205,13 +189,12 @@ Copilot will analyze the diff and comment directly on the PR.
 
 | Step | Description | Done |
 |------|--------------|------|
-| 1 | Fork / create project branch | ☐ |
-| 2 | Enable Copilot and Chat | ☐ |
-| 3 | Add `.vscode/mcp.json` (in branch) | ☐ |
-| 4 | Explore Ask mode + models | ☐ |
-| 5 | Generate `copilot_instructions.md` | ☐ |
-| 6–9 | Work with issues & Coding Agent | ☐ |
-| 10 | Assign PR to Copilot for review | ☐ |
+| 1 | Create repo and issue| ☐ |
+| 2 | Assign issue to coding agent | ☐ |
+| 3 | Open code in Codespaces | ☐ |
+| 4 | Accept changes from Coding Agent (merge pull request) | ☐ |
+| 5 | Modify application using Copilot in VS Code | ☐ |
+| Optional 1| Try everything again | ☐ |
 | ✨ | Share insights | ☐ |
 
 ---
