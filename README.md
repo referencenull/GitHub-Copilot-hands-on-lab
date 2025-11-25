@@ -21,6 +21,7 @@ Before starting this lab, ensure you have:
                   Fill in required information and follow the process and then sign in
 </details>
 
+- [ ] GitHub Copilot license
 <details>
       <summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
                          IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled <br>
