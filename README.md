@@ -12,17 +12,18 @@ You’ll work inside your own repository, experimenting freely and discovering h
 Before starting this lab, ensure you have:
 - [ ] Laptop at the event
 - [ ] GitHub account
-<details>
-<summary>🔹 <b>0️⃣ Create GitHub account if you do not already have one</b></summary>
-
-- [ ]  Go to: github.com  
-
-- [ ] From upper right corner click: Sign up <br>
-      <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-      <br>
-- [ ]  Fill in required information and follow the process and then sign in
+      <details>
+      <summary>🔹 <b>0️⃣ Create GitHub account if you do not already have one</b></summary>
+      
+      - [ ]  Go to: github.com  
+      
+      - [ ] From upper right corner click: Sign up <br>
+            <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
+            <br>
+      - [ ]  Fill in required information and follow the process and then sign in
 </details>
-- [ ] GitHub Copilot license
+
+- [ ] Laptop at the event
 <details>
 <summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
 
