@@ -23,9 +23,6 @@ Before starting this lab, ensure you have:
 - [ ] GitHub Copilot license
       <details>
       <summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
-                         IF you already have GitHub and GitHub Copilot through Enterprise or Business plan check from the administrator that you have Coding Agent enabled                         <br>
-                        https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-organization/add-copilot-coding-agent<br>
-                        OR <br>
                         Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for                          GitHub Copilot Pro  and follow the activation process
 
 📘 **Documentation:**
@@ -52,11 +49,11 @@ Try questions like:
 - [ ]  Click your profile picture at the top right and choose  "Repositories" from the menu <br>
       <img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/e7ad7952-dcc7-4fca-ba1a-3ec94d9a65f3" />
          
-- [ ]  Click "New" button to create new repo. Give it a name and description (like "This is a web application to manage inventory")
-- [ ] Click "Issues" from the top menu and then button "New issue"
-- [ ]  Give it a title (e.g. "Create new web application") and description (e.g.  "Create a new web application where user can manage their inventory sales items. User can add new items, delete and browse them. Create also test list of items in local database.")
+- [ ]  Click "New" button to create new repo. Give it a name (i.e.  and description (like "This is a web application to manage inventory")
 - [ ]  Click "Add README" toogle from "Off" to "On"
 - [ ]  Click "Create"
+- [ ]  Click "Issues" from the top menu and then button "New issue"
+- [ ]  Give it a title (e.g. "Create new web application") and description (e.g.  "Create a new web application where user can manage their inventory sales items. User can add new items, delete and browse them. Create also test list of items in local database.")
       
  💡 **Details** The more detailed description you give the better results you will get later from Copilot. Think this as you would write an work description to any human developer or team member.
 </details>
