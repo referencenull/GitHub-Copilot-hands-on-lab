@@ -156,8 +156,9 @@ Now the code that Copilot created has been pulled to our codebase
 - [ ] Now we can run the application Copilot has created to us. But how? Let's ask from Copilot. Notice that you can insert the commands Copilot suggest directly to console.
 - [ ] Let's do some code changes. Maybe add button that blows confetti on the screen? Remember to accept the code suggestion by clicking the green "Keep"
       ("Add button that will blow confetti on the screen")
-- [ ] You can also ask Copilot to explain the code and maybe create html documentation.
-- [ ] Maybe open some code file, select few lines of code and ask Copilot to explain the code?
+- [ ] Try open some code file, select few lines of code and ask Copilot to explain the code.
+- [ ] You can also ask Copilot to explain the project and maybe create html documentation for business people about what the application does. 
+
 
 </details>
 
