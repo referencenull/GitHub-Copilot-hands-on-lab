@@ -1,5 +1,4 @@
-# 🚀 GitHub Copilot Hands-On Lab <br>
-# Microsoft x Software Finland
+# 🚀 GitHub Copilot Hands-On Lab - <b>Microsoft x Software Finland</b>
 # https://github.com/referencenull/GitHub-Copilot-hands-on-lab
 
 Welcome to the **GitHub Copilot Hands-On Lab**!  
