@@ -1,7 +1,6 @@
 # 🚀 GitHub Copilot Hands-On Lab - <b>Microsoft x Software Finland</b>
-# https://github.com/referencenull/GitHub-Copilot-hands-on-lab
 
-Welcome to the **GitHub Copilot Hands-On Lab**!  
+Tervetuloa  **GitHub Copilot Hands-On Lab**!  
 This challenge will guide you through some of the Copilot features — from *Ask* and *Edit* and *Plan* modes to  *Copilot Coding Agent*.  
 You’ll work inside your own repository, experimenting freely and discovering how Copilot transforms your workflow and way of working.
 
