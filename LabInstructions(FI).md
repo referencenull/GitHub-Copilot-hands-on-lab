@@ -13,7 +13,7 @@ Ennen kuin aloitat tämän labran, varmista että sinulla on:
       <details>
       <summary>🔹 <b>0️⃣ Luo GitHub-tili, jos sinulla ei vielä ole</b></summary>
                   Mene osoitteeseen: github.com  
-                  Klikkaa oikeasta yläkulmasta: Sign up <br>
+                  Klikkaa oikeasta yläkulmasta: Sign up <br><br>
                   <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
                   <br>
                   Täytä vaaditut tiedot ja seuraa ohjeita, ja kirjaudu sisään
