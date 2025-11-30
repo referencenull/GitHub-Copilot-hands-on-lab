@@ -48,11 +48,17 @@ Kokeile kysymyksiä:
 - [ ]  Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
       <img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/e7ad7952-dcc7-4fca-ba1a-3ec94d9a65f3" />
          
-- [ ]  Klikkaa "New"-painiketta luodaksesi uuden repojen. Anna nimi ja kuvaus (esim. "Tämä on web-sovellus varaston hallintaan")
-- [ ]  Laita "Add README" päälle ja jätä muut asetukset oletukseksi
-- [ ]  Klikkaa "Create"
-- [ ]  Valitse "Issues" ylävalikosta ja paina "New issue"
-- [ ]  Anna titteliksi esim. "Luo uusi web-sovellus" ja kuvaukseksi esim. "Luo uusi web-sovellus, jossa käyttäjä voi hallita varaston myyntituotteita. Käyttäjä voi lisätä, poistaa ja br[...]
+- [ ]  Klikkaa "New"-painiketta luodaksesi uuden repositoryn ja tämän jälkeen paina "Import repository" linkkiä <br>
+      <img width="550" height="73" alt="image" src="https://github.com/user-attachments/assets/14bba8ff-864e-4e6f-be25-5cf1070577f9" /> <br>
+      
+
+- [ ]  Kopioi "The URL for your source repository" kenttään osoite: https://github.com/referencenull/CopilotLab <br>
+      <img width="414" height="76" alt="image" src="https://github.com/user-attachments/assets/27bee937-6905-4925-8994-4c7f499b8e54" /> <br>
+
+- [ ]  Anna repositorylle nimi: <br>
+      <img width="284" height="101" alt="image" src="https://github.com/user-attachments/assets/85d88da6-80af-4930-94d0-338583c78903" /> <br>
+
+- [ ]  Jätä muute kentät kuten ne on ja paina "Begin import" nappia vasemmalta alhaalt
 
  💡 **Vinkki:** Mitä tarkempi kuvaus, sen parempia tuloksia saat myöhemmin Copilotilta. Mieti kuin kirjoittaisit työtehtävän ihmiselle.
 </details>
