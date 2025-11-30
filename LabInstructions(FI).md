@@ -46,7 +46,8 @@ Labran lopussa:
 
 Kokeile kysymyksiä:
 - [ ]  Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
-      <img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/e7ad7952-dcc7-4fca-ba1a-3ec94d9a65f3" />
+      <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
+
          
 - [ ]  Klikkaa "New"-painiketta luodaksesi uuden repositoryn ja tämän jälkeen paina "Import repository" linkkiä <br>
       <img width="550" height="73" alt="image" src="https://github.com/user-attachments/assets/14bba8ff-864e-4e6f-be25-5cf1070577f9" /> <br>
