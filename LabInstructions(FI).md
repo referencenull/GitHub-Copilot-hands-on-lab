@@ -37,7 +37,7 @@ Labran lopussa:
 - Olet luonut toimivan sovelluksen kirjoittamatta riviäkään koodia itse
 - Olet käyttänyt Copilotia ymmärtääksesi ja parantaaksesi olemassa olevaa koodia
 
-## 💬 Vaihe 1 – Repo ja issue
+## 💬 Vaihe 1 – Kopioi ja luo repository (koti koodille)
 
 **Tavoite:** Kopioi/luo repository, jossa voit testata ja kokeilla GitHub Copilotia
 
@@ -59,17 +59,17 @@ Kokeile kysymyksiä:
 - [ ]  Anna repositorylle nimi: <br>
       <img width="284" height="101" alt="image" src="https://github.com/user-attachments/assets/85d88da6-80af-4930-94d0-338583c78903" /> <br>
 
-- [ ]  Jätä muute kentät kuten ne on ja paina "Begin import" nappia vasemmalta alhaalt
+- [ ]  Jätä muut kentät kuten ne on ja paina "Begin import" nappia vasemmalta alhaalta
+- [ ]  Odota kunnes kopioiminen on valmis, jonka jälkeen avaa repository
+      <img width="361" height="104" alt="image" src="https://github.com/user-attachments/assets/d334acc4-b6e7-4c27-9c1d-29616c087539" />
 
- 💡 **Vinkki:** Mitä tarkempi kuvaus, sen parempia tuloksia saat myöhemmin Copilotilta. Mieti kuin kirjoittaisit työtehtävän ihmiselle.
-</details>
 
-## 🧩 Vaihe 2 – Issue Coding Agentiin
+## 🧩 Vaihe 2 – Laitetaan tekoäly töihin
 
-**Tavoite:** Anna Coding Agentin hoitaa työn.
+**Tavoite:** Annetaan Coding Agentin hoitaa työt.
 
 <details>
-<summary>🔹 <b>3️⃣ Anna issue Coding Agentille ja anna sen työstää taustalla</b></summary>
+<summary>🔹 <b>3️⃣ Anna issue Coding Agentille ja anna sen työstää sitä taustalla</b></summary>
 
 Kun issue on luotu, voit antaa sen Copilot Coding Agentille ja katsoa, mitä tapahtuu:
 
