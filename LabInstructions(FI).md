@@ -62,7 +62,7 @@ Kokeile kysymyksiä:
 - [ ]  Jätä muut kentät kuten ne on ja paina "Begin import" nappia vasemmalta alhaalta
 - [ ]  Odota kunnes kopioiminen on valmis, jonka jälkeen avaa repository
       <img width="361" height="104" alt="image" src="https://github.com/user-attachments/assets/d334acc4-b6e7-4c27-9c1d-29616c087539" />
-
+</details>
 
 ## 🧩 Vaihe 2 – Laitetaan tekoäly töihin
 
