@@ -22,7 +22,8 @@ Ennen kuin aloitat tämän labran, varmista että sinulla on:
 - [ ] GitHub Copilot -lisenssi
       <details>
       <summary>🔹 <b>1️⃣ Varmista, että sinulla on GitHub Copilot käyttöoikeus</b></summary>
-                        Avaa linkki: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) ja valitse "Try for 30 days free"                          Git[...]
+                        Avaa linkki: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) <br> ja valitse Keskimmäisestä "Pro"                         vaihtoehdosta "Try for 30 days free" <br>
+                        Joudut syöttämään maksutietosi (luottokortti tai PayPal), mutta maksua ei mene, kun peruutat tilauksen labran jälkeen.
 
 📘 **Dokumentaatio:**
 - [Aloitus GitHub Copilotin kanssa](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
@@ -31,14 +32,14 @@ Ennen kuin aloitat tämän labran, varmista että sinulla on:
 
 ## 🎯 Labran tavoitteet
 
-Labrasi lopussa:
+Labran lopussa:
 - Olet luonut GitHub-tilin ja ottanut Copilotin käyttöösi
-- Luot sovelluksia erilaisilla Copilot-työkaluilla
-- Käytät Copilotia ymmärtääksesi ja parantaaksesi olemassa olevaa koodia
+- Olet luonut toimivan sovelluksen kirjoittamatta riviäkään koodia itse
+- Olet käyttänyt Copilotia ymmärtääksesi ja parantaaksesi olemassa olevaa koodia
 
 ## 💬 Vaihe 1 – Repo ja issue
 
-**Tavoite:** Luo perusympäristö/repository, jossa voit testata ja kokeilla GitHub Copilotia
+**Tavoite:** Kopioi/luo repository, jossa voit testata ja kokeilla GitHub Copilotia
 
 <details>
 <summary>🔹 <b>2️⃣ Luo tyhjä repo ja issue</b></summary>
