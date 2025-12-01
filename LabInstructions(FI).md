@@ -108,47 +108,40 @@ Kun issue on luotu, voit antaa sen Copilot Coding Agentille ja katsoa, mitä tap
 - [ ] Klikkaa vihreää "Code"-painiketta, valitse Codespaces ja "Create Codespaces on main", odota ympäristön avautumista. <br>
       <img width="433" height="525" alt="image" src="https://github.com/user-attachments/assets/f1d5868f-beee-4321-b8ea-fc7ee971a229" />
 
-- [ ] Kun Codepsaces on luotu ja VS Code on avautunut tulee meidän vielä aktivoida Copilot. Tämä tapahtuu 
-       <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" />
-       
-Nyt kaikki on valmista:
-- [ ] Generoi ohjetiedosto Copilotille klikkaamalla "Generate agent insctructions" <br>
-      <img width="236" height="200" alt="image" src="https://github.com/user-attachments/assets/15ee7203-c44a-4a0e-84fb-9bbf31a96bc1" /> <br>
-      
-- [ ] Seuraa Copilotin toimintaa ja hyväksy sen ehdotukset, kun sitä tarvitaan (esim. komennot konsoliin). Se voi myös kysyä lisätietoja sinulta.
-- [ ] Kun Copilot on valmis, hyväksy code-klikkaamalla vihreää "Keep"-painiketta
-- [ ] Tutki copilot-instructions.md-tiedostoa. Täällä voit määritellä yleiset ohjeet Copilotille esim. koodausstandardit, kehitystyökalut, prosessit jne.
+- [ ] Kun Codespaces on luotu ja VS Code on avautunut voi ympäristö vaatia vielä seuraavia askeleita:<br>
+      1. GitHub tilin yhdistämistä:<br>
+      <img width="548" height="281" alt="image" src="https://github.com/user-attachments/assets/d8cca31f-f959-43f6-aa59-c04cffb494c5" /><br>
+      2. GitHub Copilotin aktivoimista:
+       <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" />     
+      Tämän jälkeen kaikki on valmista ja voimme työskennellä Copilotin kanssa kehittäjän ympäristössä. Tapoja on monia, joista yksinkertaisin on suoraan chat ikkununassa oikeassa alareunassa (fontin kokoa voit kasvattaa painamalla Ctrl + ):<br>
+      <img width="391" height="481" alt="image" src="https://github.com/user-attachments/assets/d8957fdc-50c3-4c52-82e2-2df26457bb06" /><br>
+      1. Kirjoita käskyt/promptit Copilotille
+      2. Valitse Copilot tila: Chat, Edit, Agent
+      3. Valitse tekoälymalli
+      4. Tämä symboli kertoo Copilotin tilan (aktiivinen/ei aktiivinen, 'miettii')
 
-</details>
-<details>
-<summary>🔹 <b>5️⃣ Tutki Copilotin eri tiloja</b></summary>
-
-- [ ] Copilot tarjoaa useita tapoja työskennellä: Ask, Edit ja Agent.
-      
-Kyselytila (Ask Mode)
-
-Ask-tila on suunniteltu nopeisiin, kontekstuaalisiin vastauksiin ohjelmointikysymyksiin. Voit korostaa koodia, kirjoittaa kysymyksen ja saada selityksiä, ehdotuksia tai koodiesimerkkejä ilman, että k[...]
-
-Muokkaustila (Edit Mode)
-
-Edit-tilassa voit tehdä tarkkoja koodimuutoksia kuvailemalla toivotut muutokset luonnollisella kielellä. Copilot generoi muokkaukset, joita voi hyväksyä tai hylätä.
-
-Agent-tila (Agent Mode)
-
-Agent-tila on näistä tehokkain ja itsenäisin. Sen avulla Copilot voi toteuttaa laajoja tehtäviä kuten ominaisuuksien rakentamista, bugien korjausta tai kokonaisen sovellusosion luomista.
+Nyt voimme kuitenkin palata katsomaan GitHub.com portaalia onko Coding Agent jo valmiina. Palataan tänne hetken kulutta
 
 </details>
 
 ---
 
-## 🧩 Vaihe 4 – Takaisin GitHub.comiin ja Coding Agentiin
+## 🧩 Vaihe 4 – Takaisin GitHub.comiin katsomaan ja hyäksymään Coding Agentin muutokset
 <details>
 <summary>🔹 <b>6️⃣Tutki mitä Coding Agent on tehnyt ja hyväksy sen tekemä pull request</b></summary>
 
 Nyt Coding Agent on saanut työnsä valmiiksi ja voit tutustua lopputulokseen
 
-- [ ] Mene "Pull requests" ylävalikkoon, ja avaa näkyvä pull request  
-- [ ] Tutki Copilotin tuottamaa koodia, selaa alas ja klikkaa "Ready for review" ja sitten "Merge pull request" kun se on vihreänä ja lopuksi "Confirm merge" 
+- [ ] Valitse ylävalikosta "Pull requests" <br>
+<img width="494" height="56" alt="image" src="https://github.com/user-attachments/assets/e7efabcd-9f6d-45c4-9194-c3e127d7b016" />
+- [ ] Klikkaa auki pull request <br>
+      <img width="688" height="160" alt="image" src="https://github.com/user-attachments/assets/eb2846f1-e5d6-4669-b5cf-1a4b54e13dc0" /><br>
+- [ ] Tutki Copilotin tuottamaa koodia
+- [ ] Selaa näkymää alas ja klikkaa "Ready for review" <br>
+      <img width="1393" height="1031" alt="image" src="https://github.com/user-attachments/assets/4d4fb966-d2a0-41ba-88c6-d598ad72ce9d" /><br>
+- [ ] Tämän jälkeen "Merge pull request"
+      <img width="701" height="482" alt="image" src="https://github.com/user-attachments/assets/5eef7210-e81c-4dda-95b4-b692af464c75" /><br>
+- [ ] Ja lopuksi "Confirm merge" 
 
 Nyt Copilotin tekemä koodi on siirtynyt omaan koodipohjaasi
 </details>
