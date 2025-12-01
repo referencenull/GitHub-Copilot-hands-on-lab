@@ -141,15 +141,19 @@ Nyt Coding Agent on saanut työnsä valmiiksi ja voit tutustua lopputulokseen
       <img width="701" height="518" alt="image" src="https://github.com/user-attachments/assets/4d4fb966-d2a0-41ba-88c6-d598ad72ce9d" /><br>
 - [ ] Tämän jälkeen "Merge pull request"<br>
       <img width="701" height="482" alt="image" src="https://github.com/user-attachments/assets/5eef7210-e81c-4dda-95b4-b692af464c75" /><br>
-- [ ] Ja lopuksi "Confirm merge" 
+- [ ] Ja lopuksi "Confirm merge" <br>
+      <img width="687" height="334" alt="image" src="https://github.com/user-attachments/assets/d069dcaa-61ad-4b1c-845d-34f3e50ed87a" /><br>
 
-Nyt Copilotin tekemä koodi on siirtynyt omaan koodipohjaasi
+
+Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme tutkia, ajaa ja muokata sitä. Joten mennään takaisin kehitysympäristöön (Codespaces & VS Code).
 </details>
 
 ---
 
+## 🧮 Vaihe 5 – Ladataan muutokset kehitysympäristöön
+
 <details>
-<summary>🔹 <b>7️⃣ Takaisin Codespacesiin tutkimaan ja muokkaamaan koodia</b></summary>
+<summary>🔹 <b>7️⃣ Takaisin Codespacesiin päivittämään muutokset sekä tutkimaan ja muokkaamaan koodia</b></summary>
 
 - [ ] Vasemman reunan valikosta avaa "Source control" ja päivitä Copilotin tekemät muutokset <br>
       <img width="357" height="274" alt="image" src="https://github.com/user-attachments/assets/d3ffa87c-c1ae-4f16-ae30-86b233b385ef" /> <br>
@@ -164,7 +168,7 @@ Nyt Copilotin tekemä koodi on siirtynyt omaan koodipohjaasi
 
 ---
 
-## 🧮 Vaihe 5 – Muokkaa sovellusta Copilot Agentilla VS Codessa
+## 🧮 Vaihe 6 – Muokkaa sovellusta Copilot Agentilla VS Codessa
 
 <details>
 <summary>🔹 <b>8️⃣ Muokkaa sovellusta luomalla uusi issue ja anna se Coding Agentiin taustatyöhön</b></summary>
