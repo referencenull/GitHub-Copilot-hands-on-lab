@@ -43,9 +43,9 @@ Labran lopussa:
 **Tavoite:** 1. Luo ympäristö ja paikka koodille (**repository**), jossa voit testata ja kokeilla GitHub Copilotia  2. Luo tehtävänanto (**issue**)
 
 <details>
-<summary>🔹 <b>2️⃣ Luo tyhjä repo ja issue</b></summary>
+<summary>🔹 <b><ins>2️⃣ Luo tyhjä repo ja issue</ins></b></summary>
       
-🔹 Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
+- Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
       - <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
          
 🔹 Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
