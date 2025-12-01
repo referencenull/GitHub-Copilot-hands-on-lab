@@ -99,16 +99,16 @@ Koko prosessi voi kestää yli 10 minuuttia, joten nyt voimme välillä tehdä m
 **Tavoite:** Avataan pilvipohjainen kehittäjän ympäristö (Codespaces), jossa voimme tutkia ja muokata koodia Visual Studio Codessa (VS Code)
 
 <details>
-<summary>🔹 <b>4️⃣ Avaa repository Codespacesissa ja tutki Copilotia VS Codessa</b></summary>
+<summary>🔹 <b><ins>4️⃣ Avaa repository Codespacesissa ja tutki Copilotia VS Codessa</ins></b></summary>
 
-- [ ] Mene nettiselaimessa yksi askel taaksepäin (Coding Agentin työ näkymästä)
-- [ ] Klikkaa "<>Code" ylävalikosta <br>
+- Mene nettiselaimessa yksi askel taaksepäin (Coding Agentin työ näkymästä)
+- Klikkaa "<>Code" ylävalikosta <br>
       <img width="125" height="77" alt="image" src="https://github.com/user-attachments/assets/56b3ab92-8374-4a90-88b4-be932593f08c" /><br>
 
-- [ ] Klikkaa vihreää "Code"-painiketta, valitse Codespaces ja "Create Codespaces on main", odota ympäristön avautumista. <br>
+- Klikkaa vihreää "Code"-painiketta, valitse Codespaces ja "Create Codespaces on main", odota ympäristön avautumista. <br>
       <img width="433" height="525" alt="image" src="https://github.com/user-attachments/assets/f1d5868f-beee-4321-b8ea-fc7ee971a229" />
 
-- [ ] Kun Codespaces on luotu ja VS Code on avautunut voi ympäristö vaatia vielä seuraavia askeleita:<br>
+- Kun Codespaces on luotu ja VS Code on avautunut voi ympäristö vaatia vielä seuraavia askeleita:<br>
       1. GitHub tilin yhdistämistä:<br>
       <img width="548" height="281" alt="image" src="https://github.com/user-attachments/assets/d8cca31f-f959-43f6-aa59-c04cffb494c5" /><br>
       2. GitHub Copilotin aktivoimista:
@@ -128,20 +128,20 @@ Nyt voimme kuitenkin palata katsomaan GitHub.com portaalia onko Coding Agent jo 
 
 ## 🧩 Vaihe 4 – Takaisin GitHub.comiin katsomaan ja hyäksymään Coding Agentin muutokset
 <details>
-<summary>🔹 <b>6️⃣Tutki mitä Coding Agent on tehnyt ja hyväksy sen tekemä pull request</b></summary>
+<summary>🔹 <b><ins>6️⃣Tutki mitä Coding Agent on tehnyt ja hyväksy sen tekemä pull request</ins></b></summary>
 
 Nyt Coding Agent on saanut työnsä valmiiksi ja voit tutustua lopputulokseen
 
-- [ ] Valitse ylävalikosta "Pull requests" <br>
+- Valitse ylävalikosta "Pull requests" <br>
       <img width="494" height="56" alt="image" src="https://github.com/user-attachments/assets/e7efabcd-9f6d-45c4-9194-c3e127d7b016" /><br>
-- [ ] Klikkaa auki pull request <br>
+- Klikkaa auki pull request <br>
       <img width="688" height="160" alt="image" src="https://github.com/user-attachments/assets/eb2846f1-e5d6-4669-b5cf-1a4b54e13dc0" /><br>
-- [ ] Tutki Copilotin tuottamaa koodia<br>
-- [ ] Selaa näkymää alas ja klikkaa "Ready for review" <br>
+- Tutki Copilotin tuottamaa koodia<br>
+- Selaa näkymää alas ja klikkaa "Ready for review" <br>
       <img width="701" height="518" alt="image" src="https://github.com/user-attachments/assets/4d4fb966-d2a0-41ba-88c6-d598ad72ce9d" /><br>
-- [ ] Tämän jälkeen "Merge pull request"<br>
+- Tämän jälkeen "Merge pull request"<br>
       <img width="701" height="482" alt="image" src="https://github.com/user-attachments/assets/5eef7210-e81c-4dda-95b4-b692af464c75" /><br>
-- [ ] Ja lopuksi "Confirm merge" <br>
+- Ja lopuksi "Confirm merge" <br>
       <img width="687" height="334" alt="image" src="https://github.com/user-attachments/assets/d069dcaa-61ad-4b1c-845d-34f3e50ed87a" /><br>
 
 Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme tutkia, ajaa ja muokata sitä. Joten mennään takaisin kehitysympäristöön (Codespaces & VS Code).
@@ -152,19 +152,19 @@ Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme t
 ## 🧮 Vaihe 5 – Ladataan muutokset kehitysympäristöön
 
 <details>
-<summary>🔹 <b>7️⃣ Takaisin Codespacesiin päivittämään muutokset sekä tutkimaan ja muokkaamaan koodia</b></summary>
+<summary>🔹 <b><ins>7️⃣ Takaisin Codespacesiin päivittämään muutokset sekä tutkimaan ja muokkaamaan koodia</ins></b></summary>
 
-- [ ] Lataa Copilotin muutokset vasemman alareunan valikosta (Synchronize Changes) <br>
+- Lataa Copilotin muutokset vasemman alareunan valikosta (Synchronize Changes) <br>
       <img width="442" height="128" alt="image" src="https://github.com/user-attachments/assets/5c258cad-c81f-473c-a0b2-17e41c02e25d" /><br>
       <img width="583" height="178" alt="image" src="https://github.com/user-attachments/assets/15108c6d-9ee5-459e-b93b-21c5fd7d4e74" /><br>
 
-- [ ] Nyt voit ajaa Copilotin tekemää sovellusta. Miten? Kysy asia Copilotilta!
-- [ ] Huomioi, että voit hyväksyä suoraan Copilotin ehdottamia komentoja terminaalissa.
-- [ ] Tee koodimuutoksia. Lisää vaikka nappi, joka räjäyttää konfettia ruudulle?
+- Nyt voit ajaa Copilotin tekemää sovellusta. Miten? Kysy asia Copilotilta!
+- Huomioi, että voit hyväksyä suoraan Copilotin ehdottamia komentoja terminaalissa.
+- Tee koodimuutoksia. Lisää vaikka nappi, joka räjäyttää konfettia ruudulle?
      ("Add button that will blow confetti on the screen")
 Testaa näitä jos haluat:
-- [ ] Avaa jokin kooditiedosto, valitse jokin koodirivi ja pyydä Copilotia selittämään tämä koodi.
-- [ ] Voit myös esimerkiksi pyytää Copilotia selittämään projektin sisällön liiketoiminnan näkökulmasta ja muodostamaan siitä vaikka HTML-dokumentaatioksi.
+- Avaa jokin kooditiedosto, valitse jokin koodirivi ja pyydä Copilotia selittämään tämä koodi.
+- Voit myös esimerkiksi pyytää Copilotia selittämään projektin sisällön liiketoiminnan näkökulmasta ja muodostamaan siitä vaikka HTML-dokumentaatioksi.
 
 </details>
 
@@ -173,13 +173,13 @@ Testaa näitä jos haluat:
 ## 🧮 Vaihe 6 – Muokkaa sovellusta enemmän 
 
 <details>
-<summary>🔹 <b>8️⃣ Nyt, kun osaat jo tehdä issuen ja antaa sen Copilot Coding Agentille tehtäväksi kokeile luoda uusi issue tai usemapi ja annan ne agentille tehtäväksi. Muokataan lisää myös VS Codessa</b></summary>
+<summary>🔹 <b><ins>8️⃣ Nyt, kun osaat jo tehdä issuen ja antaa sen Copilot Coding Agentille tehtäväksi kokeile luoda uusi issue tai usemapi ja annan ne agentille tehtäväksi. Muokataan lisää myös VS Codessa</ins></b></summary>
 
-- [ ] Katso vaiheen 1 issuen luonti ja vaihe 2. Keksi muutoksia, luo vaikka usemapi issue ja anna ne agentille tehtäväksi. 
-- [ ] Voit seurata agentin työn etenemistä myös VS Codessa valitsemalla vasemman reunan valikosta "Agent sessions"<br>
+- Katso vaiheen 1 issuen luonti ja vaihe 2. Keksi muutoksia, luo vaikka usemapi issue ja anna ne agentille tehtäväksi. 
+- Voit seurata agentin työn etenemistä myös VS Codessa valitsemalla vasemman reunan valikosta "Agent sessions"<br>
       <img width="179" height="206" alt="image" src="https://github.com/user-attachments/assets/06855fff-d387-4b2c-a168-dae6cc55629a" /><br>
 
-- [ ] Sillä välin, kun agentit tekevät työtään koita tehdä muutoksia VS Coden Copilotilla. Pyydä sitä tekemään muutoksia, kuten lisämään tuotteisiin kuvat tai jotain aivan muuta.
+- Sillä välin, kun agentit tekevät työtään koita tehdä muutoksia VS Coden Copilotilla. Pyydä sitä tekemään muutoksia, kuten lisämään tuotteisiin kuvat tai jotain aivan muuta.
 
 </details>
 
