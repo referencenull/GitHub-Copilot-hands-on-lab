@@ -12,19 +12,19 @@ Ennen kuin aloitat tämän labran, varmista että sinulla on:
 <details>
       <summary><ins>GitHub-tili</ins></summary>
      🔹 <b>0️⃣ Luo GitHub-tili. Suosittelemme luomaan tilin henkilökohtaisella sähköposti osoitteella, jotta mahdolliset organisaatiosi säännöt eivät rajoita kokeilemista.</b>
-                  -Mene osoitteeseen: [github.com](https://github.com/)
-                  -Klikkaa oikeasta yläkulmasta: Sign up <br><br>
-                  <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-                  <br>
-                  Täytä vaaditut tiedot, seuraa ohjeita ja kirjaudu sisään
+            -Mene osoitteeseen: [github.com](https://github.com/)
+            -Klikkaa oikeasta yläkulmasta: Sign up <br><br>
+            <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
+            <br>
+            Täytä vaaditut tiedot, seuraa ohjeita ja kirjaudu sisään
       </details>
 
 <details>
       <summary><ins>GitHub Copilot -lisenssi</ins></summary>
       🔹 <b>1️⃣ Varmista, että sinulla on vaadittava GitHub Copilot käyttöoikeus</b>
-                        -Avaa linkki: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) <br> ja valitse Keskimmäisestä                               "Pro" vaihtoehdosta "Try for 30 days free" <br>
-                        <img width="507" height="420" alt="image" src="https://github.com/user-attachments/assets/d156511d-4f1b-4a2e-8be9-a9338b196099" /><br>
-                        -Joudut syöttämään maksutietosi (luottokortti tai PayPal), mutta maksua ei mene, kun peruutat tilauksen labran jälkeen.
+            -Avaa linkki: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) <br> ja valitse Keskimmäisestä                               "Pro" vaihtoehdosta "Try for 30 days free" <br>
+            <img width="507" height="420" alt="image" src="https://github.com/user-attachments/assets/d156511d-4f1b-4a2e-8be9-a9338b196099" /><br>
+            -Joudut syöttämään maksutietosi (luottokortti tai PayPal), mutta maksua ei mene, kun peruutat tilauksen labran jälkeen.
 
 📘 **Dokumentaatio:**
 - [Aloitus GitHub Copilotin kanssa](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
@@ -45,16 +45,16 @@ Labran lopussa:
 <details>
 <summary>🔹 <b>2️⃣ Luo tyhjä repo ja issue</b></summary>
       
-- [ ]  Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
+🔹 Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
       <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
          
-- [ ]  Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
+🔹 Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
       <img width="191" height="94" alt="image" src="https://github.com/user-attachments/assets/6be9be56-4d73-4e80-a53e-1ec511b9be5c" /> <br>
       
-- [ ]  1.Anna repositorylle nimi 2.Valitse "Add README" valinta "On" 3.Paina "Create repository" <br>
+🔹 1.Anna repositorylle nimi 2.Valitse "Add README" valinta "On" 3.Paina "Create repository" <br>
       <img width="467" height="671" alt="image" src="https://github.com/user-attachments/assets/6c264ca6-274f-451c-acf2-1660cb6856c6" /><br>
 
-- [ ]  Luodaan tehtävänanto/kuvaus eli "Issue": Valitse ylävalikosta "Issues" <br>
+🔹 Luodaan tehtävänanto/kuvaus eli "Issue": Valitse ylävalikosta "Issues" <br>
       <img width="513" height="62" alt="image" src="https://github.com/user-attachments/assets/5732bb4e-3f46-4351-830d-36c51f522019" /> <br>
 
 - [ ]  Ja tämän jälkeen "New issue" <br>
