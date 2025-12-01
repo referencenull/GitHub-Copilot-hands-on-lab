@@ -37,9 +37,9 @@ Labran lopussa:
 - Olet luonut toimivan sovelluksen kirjoittamatta riviäkään koodia itse
 - Olet käyttänyt Copilotia ymmärtääksesi ja parantaaksesi olemassa olevaa koodia
 
-## 💬 Vaihe 1 – Kopioi ja luo repository (koti koodille)
+## 💬 Vaihe 1 – Luodaan ympäristö koodille
 
-**Tavoite:** Kopioi/luo repository, jossa voit testata ja kokeilla GitHub Copilotia
+**Tavoite:** Luo ympäristö (repository), jossa voit testata ja kokeilla GitHub Copilotia, sekä tehtävänanto (issue)
 
 <details>
 <summary>🔹 <b>2️⃣ Luo tyhjä repo ja issue</b></summary>
@@ -64,9 +64,7 @@ Kokeile kysymyksiä:
 
 - [ ]  Anna otsikoksi: <b>Create a web app to manage inventory of a retail store</b>
 - [ ]  Anna kuvaukseksi: <br>
-      <b>Create an web app where user can manage an inventory. User can browse products, add and delete new products and change the quantity of products.
-- Make the app look modern and easy to use.
-- Create also a local test database with 20 products pre populated </b><br>
+      <b>Create an web app where user can manage an inventory. User can browse products, add and delete new products and change the quantity of products. Make the app look modern and easy to use. Create also a local test database with 20 products pre populated </b><br>
       <img width="630" height="435" alt="image" src="https://github.com/user-attachments/assets/3c11073b-31d1-4a5f-bfff-4b4d000b40bf" />
 
 </details>
