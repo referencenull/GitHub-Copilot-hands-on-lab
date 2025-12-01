@@ -51,7 +51,7 @@ Labran lopussa:
 - Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
       <img width="191" height="94" alt="image" src="https://github.com/user-attachments/assets/6be9be56-4d73-4e80-a53e-1ec511b9be5c" /> <br>
       
-- 1.Anna repositorylle nimi 2.Valitse "Add README" valinta "On" 3.Paina "Create repository" <br>
+- 1.Anna repositorylle nimi <br>2.Valitse "Add README" valinta "On" <br>3.Paina "Create repository" <br>
       <img width="467" height="671" alt="image" src="https://github.com/user-attachments/assets/6c264ca6-274f-451c-acf2-1660cb6856c6" /><br>
 
 - Luodaan tehtävänanto/kuvaus eli "Issue": Valitse ylävalikosta "Issues" <br>
@@ -72,23 +72,23 @@ Labran lopussa:
 **Tavoite:** Annetaan tehtävänanto (issue) Coding Agentintille tehtäväksi
 
 <details>
-<summary>🔹 <b>3️⃣ Anna issue Coding Agentille ja anna sen työstää sitä taustalla</b></summary>
+<summary>🔹 <b><ins>3️⃣ Anna issue Coding Agentille ja anna sen työstää sitä taustalla</ins></b></summary>
 
 Kun issue on luotu, voit antaa sen Copilot Coding Agentille ja katsoa, mitä tapahtuu:
 
-- [ ] Klikkaa "Assign to Copilot" <br>
+- Klikkaa "Assign to Copilot" <br>
       <img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/a19ffcb6-02c3-450c-a3fe-f62fc9860e88" /><br>
-- [ ] Klikkaa "Assign"<br>
+- Klikkaa "Assign"<br>
       <img width="475" height="233" alt="image" src="https://github.com/user-attachments/assets/7ff48ee8-a024-42e0-be87-fe52418ef88e" /><br>
-- [ ] Klikkaa "WIP..." (issuen tittelisi kanssa) -linkkiä seurataksesi mitä Coding Agent tekee <br>
+- Klikkaa "WIP..." (issuen tittelisi kanssa) -linkkiä seurataksesi mitä Coding Agent tekee <br>
       <img width="420" height="113" alt="image" src="https://github.com/user-attachments/assets/ded50f10-9698-4feb-81c4-5eb5a6678975" /><br>
-- [ ] Coding Agent päivittää työtään tähän. Tutki tarkemmin klikkaamalla "View session": <br>
+- Coding Agent päivittää työtään tähän. Tutki tarkemmin klikkaamalla "View session": <br>
       <img width="383" height="134" alt="image" src="https://github.com/user-attachments/assets/0995db07-710b-41f1-a93a-2efffabaf695" /><br>
-- [ ] Nyt voit:<br>
+- Nyt voit:<br>
       1. Tarkkailla mitä Coding Agent tekee<br>
       2. Antaa vielä lisäehdotuksia tai muutoksia. Kirjoita tähän esimerkiksi "Target this web app for company selling..." <- jatka lausetta esim. motorcycles, skateboards tai jotain aivan muuta mitä haluat ohjelmassa näkeväsi.<br>
       <img width="477" height="658" alt="image" src="https://github.com/user-attachments/assets/6717f8ce-9e50-4004-a660-9920e2fb2208" /><br>
-      Koko prosessi voi kestää yli 10 minuuttia, joten nyt voimme välillä tehdä muuta ja palata katstoaan tilannetta myöhemmin.
+Koko prosessi voi kestää yli 10 minuuttia, joten nyt voimme välillä tehdä muuta ja palata katstoaan tilannetta myöhemmin.
       
 📘 [Tietoa GitHub Coding Agentista](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
 
