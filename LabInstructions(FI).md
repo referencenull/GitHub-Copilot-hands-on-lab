@@ -12,7 +12,7 @@ Ennen kuin aloitat tämän labran, varmista että sinulla on:
 <details>
       <summary>GitHub-tili</summary>
       <details>
-      <summary>🔹 <b>0️⃣ Luo GitHub-tili. Suosittelemme luomaan tilin henkilökohtaisella sähköposti osoitteella, jotta mahdolliset organisaatiosi säännöt eivät rajoita kokeilemista.</b>
+     🔹 <b>0️⃣ Luo GitHub-tili. Suosittelemme luomaan tilin henkilökohtaisella sähköposti osoitteella, jotta mahdolliset organisaatiosi säännöt eivät rajoita kokeilemista.</b>
                   -Mene osoitteeseen: [github.com](https://github.com/)
                   -Klikkaa oikeasta yläkulmasta: Sign up <br><br>
                   <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
