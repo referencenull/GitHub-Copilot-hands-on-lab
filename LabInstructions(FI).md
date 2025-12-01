@@ -46,7 +46,7 @@ Labran lopussa:
 <summary>🔹 <b>2️⃣ Luo tyhjä repo ja issue</b></summary>
       
 🔹 Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
-      <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
+      - <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
          
 🔹 Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
       <img width="191" height="94" alt="image" src="https://github.com/user-attachments/assets/6be9be56-4d73-4e80-a53e-1ec511b9be5c" /> <br>
