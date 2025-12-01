@@ -77,19 +77,19 @@ Labran lopussa:
 Kun issue on luotu, voit antaa sen Copilot Coding Agentille ja katsoa, mitä tapahtuu:
 
 - [ ] Klikkaa "Assign to Copilot" <br>
-      <img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/a19ffcb6-02c3-450c-a3fe-f62fc9860e88" />
-- [ ] Klikkaa "Assign"
-      <img width="475" height="233" alt="image" src="https://github.com/user-attachments/assets/7ff48ee8-a024-42e0-be87-fe52418ef88e" />
-Seuraa Coding Agentin etenemistä:
+      <img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/a19ffcb6-02c3-450c-a3fe-f62fc9860e88" /><br>
+- [ ] Klikkaa "Assign"<br>
+      <img width="475" height="233" alt="image" src="https://github.com/user-attachments/assets/7ff48ee8-a024-42e0-be87-fe52418ef88e" /><br>
+Seuraa Coding Agentin etenemistä:<br>
 - [ ] Klikkaa "WIP..." (issuen tittelisi kanssa) -linkkiä <br>
-      <img width="420" height="113" alt="image" src="https://github.com/user-attachments/assets/ded50f10-9698-4feb-81c4-5eb5a6678975" />
+      <img width="420" height="113" alt="image" src="https://github.com/user-attachments/assets/ded50f10-9698-4feb-81c4-5eb5a6678975" /><br>
 
 - [ ] Coding Agent päivittää työtään tähän. Tutki tarkemmin klikkaamalla "View session": <br>
-      <img width="383" height="134" alt="image" src="https://github.com/user-attachments/assets/0995db07-710b-41f1-a93a-2efffabaf695" />
+      <img width="383" height="134" alt="image" src="https://github.com/user-attachments/assets/0995db07-710b-41f1-a93a-2efffabaf695" /><br>
 
-- [ ] Nyt voit:
-      1. Tarkkailla mitä Coding Agent tekee
-      2. Antaa vielä lisäehdotuksia tai muutoksia. Kirjoita tähän esimerkiksi "Target this web app for company selling..." <- jatka lausetta esim. motorcycles, skateboards tai jotain aivan muuta mitä haluat ohjelmassa näkeväsi.
+- [ ] Nyt voit:<br>
+      1. Tarkkailla mitä Coding Agent tekee<br>
+      2. Antaa vielä lisäehdotuksia tai muutoksia. Kirjoita tähän esimerkiksi "Target this web app for company selling..." <- jatka lausetta esim. motorcycles, skateboards tai jotain aivan muuta mitä haluat ohjelmassa näkeväsi.<br>
       Koko prosessi voi kestää yli 10 minuuttia, joten nyt voimme välillä tehdä muuta ja palata katstoaan tilannetta myöhemmin.
       
 📘 [Tietoa GitHub Coding Agentista](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
