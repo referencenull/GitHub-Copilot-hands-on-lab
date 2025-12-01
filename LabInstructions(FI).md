@@ -94,16 +94,21 @@ Kun issue on luotu, voit antaa sen Copilot Coding Agentille ja katsoa, mitä tap
 
 </details>
 
-## 🧩 Vaihe 3 – Repo Codespacesiin
+## 🧩 Vaihe 3 – Valmistellaan ympäristö, jossa testata ja muokata koodia
 
-**Tavoite:** Käytä Copilotia Visual Studio Codessa GitHubin pilvipohjaisessa Codespaces-ympäristössä.
+**Tavoite:** Avataan pilvipohjainen kehittäjän ympäristö (Codespaces), jossa voimme tutkia ja muokata koodia Visual Studio Codessa (VS Code)
 
 <details>
-<summary>🔹 <b>4️⃣ Avaa repo Codespacesissa ja tutki Copilotia VS Codessa</b></summary>
+<summary>🔹 <b>4️⃣ Avaa repository Codespacesissa ja tutki Copilotia VS Codessa</b></summary>
 
-- [ ] Klikkaa "<>Code" ylävalikosta  
-- [ ] Klikkaa vihreää "Code"-painiketta, valitse Codespaces ja "Create Codespaces on main", odota ympäristön avautumista. Codespaces on sinulle automaattisesti luotu pilvikehitysympäristö.
-- [ ] Kun VS Code on avattu, GitHub Copilot on lähes valmis ja löytyy ruudun oikeasta reunasta, mutta sinun tulee vielä yksi asetus aktivoida oikeasta alakulmasta.
+- [ ] Mene nettiselaimessa yksi askel taaksepäin (Coding Agentin työ näkymästä)
+- [ ] Klikkaa "<>Code" ylävalikosta <br>
+      <img width="125" height="77" alt="image" src="https://github.com/user-attachments/assets/56b3ab92-8374-4a90-88b4-be932593f08c" /><br>
+
+- [ ] Klikkaa vihreää "Code"-painiketta, valitse Codespaces ja "Create Codespaces on main", odota ympäristön avautumista. <br>
+      <img width="433" height="525" alt="image" src="https://github.com/user-attachments/assets/f1d5868f-beee-4321-b8ea-fc7ee971a229" />
+
+- [ ] Kun Codepsaces on luotu ja VS Code on avautunut tulee meidän vielä aktivoida Copilot. Tämä tapahtuu 
        <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" />
        
 Nyt kaikki on valmista:
