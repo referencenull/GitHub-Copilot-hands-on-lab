@@ -46,23 +46,23 @@ Labran lopussa:
 <summary>🔹 <b><ins>2️⃣ Luo tyhjä repo ja issue</ins></b></summary>
       
 - Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
-      - <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
+        <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
          
-🔹 Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
+- Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
       <img width="191" height="94" alt="image" src="https://github.com/user-attachments/assets/6be9be56-4d73-4e80-a53e-1ec511b9be5c" /> <br>
       
-🔹 1.Anna repositorylle nimi 2.Valitse "Add README" valinta "On" 3.Paina "Create repository" <br>
+- 1.Anna repositorylle nimi 2.Valitse "Add README" valinta "On" 3.Paina "Create repository" <br>
       <img width="467" height="671" alt="image" src="https://github.com/user-attachments/assets/6c264ca6-274f-451c-acf2-1660cb6856c6" /><br>
 
-🔹 Luodaan tehtävänanto/kuvaus eli "Issue": Valitse ylävalikosta "Issues" <br>
+- Luodaan tehtävänanto/kuvaus eli "Issue": Valitse ylävalikosta "Issues" <br>
       <img width="513" height="62" alt="image" src="https://github.com/user-attachments/assets/5732bb4e-3f46-4351-830d-36c51f522019" /> <br>
 
-- [ ]  Ja tämän jälkeen "New issue" <br>
+- Ja tämän jälkeen "New issue" <br>
       <img width="256" height="46" alt="image" src="https://github.com/user-attachments/assets/c02a53f9-85c8-4ef6-9914-bc2eead556f0" />
 
-- [ ]  Anna otsikoksi: Create a web app to manage inventory of a retail store
-- [ ]  Anna kuvaukseksi: <br>
-      Create an web app where user can manage an inventory. User can browse products, add and delete products and change the quantity of products. Make the app look modern and easy to use. Create also a local test database with 20 products pre populated <br>
+- Anna otsikoksi: Create a web app to manage inventory of a retail store
+- Anna kuvaukseksi: <br>
+      - Create an web app where user can manage an inventory. User can browse products, add and delete products and change the quantity of products. Make the app look modern and easy to use. Create also a local test database with 20 products pre populated <br>
       <img width="630" height="435" alt="image" src="https://github.com/user-attachments/assets/3c11073b-31d1-4a5f-bfff-4b4d000b40bf" />
 
 </details>
