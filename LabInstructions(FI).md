@@ -49,14 +49,14 @@ Kokeile kysymyksiä:
       <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
 
          
-- [ ]  Klikkaa "New"-painiketta luodaksesi uuden repositoryn ja tämän jälkeen paina "Import repository" linkkiä <br>
-      <img width="550" height="73" alt="image" src="https://github.com/user-attachments/assets/14bba8ff-864e-4e6f-be25-5cf1070577f9" /> <br>
+- [ ]  Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
+      <img width="191" height="94" alt="image" src="https://github.com/user-attachments/assets/6be9be56-4d73-4e80-a53e-1ec511b9be5c" /> <br>
       
 
-- [ ]  Kopioi "The URL for your source repository" kenttään osoite: https://github.com/referencenull/CopilotLab <br>
-      <img width="414" height="76" alt="image" src="https://github.com/user-attachments/assets/27bee937-6905-4925-8994-4c7f499b8e54" /> <br>
+- [ ]  1.Anna repositorylle nimi 2.Valitse "Add README" valinta "On" 3.Paina "Create repository" <br>
+      <img width="467" height="671" alt="image" src="https://github.com/user-attachments/assets/6c264ca6-274f-451c-acf2-1660cb6856c6" /><br>
 
-- [ ]  Anna repositorylle nimi: <br>
+- [ ]  Luodaan "Issue": Valitse ylävalikosta "Issues" <br>
       <img width="284" height="101" alt="image" src="https://github.com/user-attachments/assets/85d88da6-80af-4930-94d0-338583c78903" /> <br>
 
 - [ ]  Jätä muut kentät kuten ne on ja paina "Begin import" nappia vasemmalta alhaalta
