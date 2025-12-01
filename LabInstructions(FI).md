@@ -10,7 +10,7 @@ Työskentelet omassa repossasi, kokeilet vapaasti ja näet, miten Copilot muutta
 
 Ennen kuin aloitat tämän labran, varmista että sinulla on:
 <details>
-      <summary>GitHub-tili</summary>
+      <summary><ins>GitHub-tili</ins></summary>
      🔹 <b>0️⃣ Luo GitHub-tili. Suosittelemme luomaan tilin henkilökohtaisella sähköposti osoitteella, jotta mahdolliset organisaatiosi säännöt eivät rajoita kokeilemista.</b>
                   -Mene osoitteeseen: [github.com](https://github.com/)
                   -Klikkaa oikeasta yläkulmasta: Sign up <br><br>
@@ -19,9 +19,9 @@ Ennen kuin aloitat tämän labran, varmista että sinulla on:
                   Täytä vaaditut tiedot, seuraa ohjeita ja kirjaudu sisään
       </details>
 
-- [ ] GitHub Copilot -lisenssi
-      <details>
-      <summary>🔹 <b>1️⃣ Varmista, että sinulla on vaadittava GitHub Copilot käyttöoikeus</b></summary>
+<details>
+      <summary><ins>GitHub Copilot -lisenssi</ins></summary>
+      🔹 <b>1️⃣ Varmista, että sinulla on vaadittava GitHub Copilot käyttöoikeus</b>
                         -Avaa linkki: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) <br> ja valitse Keskimmäisestä                               "Pro" vaihtoehdosta "Try for 30 days free" <br>
                         <img width="507" height="420" alt="image" src="https://github.com/user-attachments/assets/d156511d-4f1b-4a2e-8be9-a9338b196099" /><br>
                         -Joudut syöttämään maksutietosi (luottokortti tai PayPal), mutta maksua ei mene, kun peruutat tilauksen labran jälkeen.
