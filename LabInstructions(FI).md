@@ -185,7 +185,7 @@ Testaa näitä jos haluat:
 
 ---
 
-## 🧠 Jaa havaintosi & kesksutelua
+## 🧠 Jaa havaintosi & keskustelua
 
 - [ ] Mikä ero on Coding Agentilla ja Copilot Agent modella?
 - [ ] Mikä yllätti sinut eniten Copilotin toiminnassa?  
