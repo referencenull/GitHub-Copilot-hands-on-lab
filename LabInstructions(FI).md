@@ -144,7 +144,6 @@ Nyt Coding Agent on saanut työnsä valmiiksi ja voit tutustua lopputulokseen
 - [ ] Ja lopuksi "Confirm merge" <br>
       <img width="687" height="334" alt="image" src="https://github.com/user-attachments/assets/d069dcaa-61ad-4b1c-845d-34f3e50ed87a" /><br>
 
-
 Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme tutkia, ajaa ja muokata sitä. Joten mennään takaisin kehitysympäristöön (Codespaces & VS Code).
 </details>
 
@@ -155,48 +154,43 @@ Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme t
 <details>
 <summary>🔹 <b>7️⃣ Takaisin Codespacesiin päivittämään muutokset sekä tutkimaan ja muokkaamaan koodia</b></summary>
 
-- [ ] Vasemman reunan valikosta avaa "Source control" ja päivitä Copilotin tekemät muutokset <br>
-      <img width="357" height="274" alt="image" src="https://github.com/user-attachments/assets/d3ffa87c-c1ae-4f16-ae30-86b233b385ef" /> <br>
+- [ ] Lataa Copilotin muutokset vasemman alareunan valikosta (Synchronize Changes) <br>
+      <img width="442" height="128" alt="image" src="https://github.com/user-attachments/assets/5c258cad-c81f-473c-a0b2-17e41c02e25d" /><br>
+      <img width="583" height="178" alt="image" src="https://github.com/user-attachments/assets/15108c6d-9ee5-459e-b93b-21c5fd7d4e74" /><br>
 
-- [ ] Nyt voit ajaa Copilotin tekemää sovellusta. Miten? Kysy asia Copilotilta! Voit käyttää suoraan sen ehdottamia komentoja konsolissa.
-- [ ] Tee koodimuutoksia. Lisää vaikka nappi, joka räjäyttää konfettia ruudulle? Hyväksy koodiehdotukset klikkaamalla vihreää "Keep".
+- [ ] Nyt voit ajaa Copilotin tekemää sovellusta. Miten? Kysy asia Copilotilta!
+- [ ] Huomioi, että voit hyväksyä suoraan Copilotin ehdottamia komentoja terminaalissa.
+- [ ] Tee koodimuutoksia. Lisää vaikka nappi, joka räjäyttää konfettia ruudulle?
      ("Add button that will blow confetti on the screen")
-- [ ] Avaa jokin kooditiedosto, valitse jokin koodirivi ja pyydä Copilotia selittämään koodia.
-- [ ] Voit myös pyytää Copilotia selittämään projektin sisällön liiketoiminnan näkökulmasta, vaikka HTML-dokumentaatioksi.
+Testaa näitä jos haluat:
+- [ ] Avaa jokin kooditiedosto, valitse jokin koodirivi ja pyydä Copilotia selittämään tämä koodi.
+- [ ] Voit myös esimerkiksi pyytää Copilotia selittämään projektin sisällön liiketoiminnan näkökulmasta ja muodostamaan siitä vaikka HTML-dokumentaatioksi.
 
 </details>
 
 ---
 
-## 🧮 Vaihe 6 – Muokkaa sovellusta Copilot Agentilla VS Codessa
+## 🧮 Vaihe 6 – Muokkaa sovellusta enemmän 
 
 <details>
-<summary>🔹 <b>8️⃣ Muokkaa sovellusta luomalla uusi issue ja anna se Coding Agentiin taustatyöhön</b></summary>
+<summary>🔹 <b>8️⃣ Nyt, kun osaat jo tehdä issuen ja antaa sen Copilot Coding Agentille tehtäväksi kokeile luoda uusi issue tai usemapi ja annan ne agentille tehtäväksi. Muokataan lisää myös VS Codessa</b></summary>
 
-- [ ] VS Coden vasemman valikon GitHub-kuvakkeesta paina "+" luodaksesi uuden issuen  <br>
-      <img width="252" height="166" alt="image" src="https://github.com/user-attachments/assets/128bcfca-44c4-49ed-99b9-a8f620fa6311" /> <br>
-      Muuta otsikoksi "Lisää kuvia" <br>
-      Kuvaus esim. "Lisää tuotteisiin kuvia. Lisää myös testikuvia tietokantaan" <br>
-      Luo issue painamalla check-merkkiä <br>
-      <img width="186" height="60" alt="image" src="https://github.com/user-attachments/assets/4c0bee8c-1688-4246-995a-19a5ba2f2e8b" /> <br>
+- [ ] Katso vaiheen 1 issuen luonti ja vaihe 2. Keksi muutoksia, luo vaikka usemapi issue ja anna ne agentille tehtäväksi. 
+- [ ] Voit seurata agentin työn etenemistä myös VS Codessa valitsemalla vasemman reunan valikosta "Agent sessions"<br>
+      <img width="179" height="206" alt="image" src="https://github.com/user-attachments/assets/06855fff-d387-4b2c-a168-dae6cc55629a" /><br>
 
-- [ ] Avaa uusi issue ja anna se Copilotin työstettäväksi. Seuraa sen etenemistä.
-- [ ] Seuraa projektin etenemistä esim. vasemman valikon "Agent sessions" -kohdasta
-- [ ] Kuten aiemmin, näet etenemisen myös GitHub.comissa pull requestien kautta.
-- [ ] Voit jälleen pyytää Copilotia selittämään koodia klikkaamalla koodirivejä.
+- [ ] Sillä välin, kun agentit tekevät työtään koita tehdä muutoksia VS Coden Copilotilla. Pyydä sitä tekemään muutoksia, kuten lisämään tuotteisiin kuvat tai jotain aivan muuta.
 
 </details>
----
-
-## 🧠 Vapaaehtoinen 1 – Kokeile uudestaan luoda uusi repo ja ratkaisun. Panosta kuvauksiin repoon, README:hen ja issueihin.
 
 ---
 
-## 🧠 Vapaaehtoinen 2 – Jaa havaintosi
+## 🧠 Jaa havaintosi & kesksutelua
 
+- [ ] Mikä ero on Coding Agentilla ja Copilot Agent modella?
 - [ ] Mikä yllätti sinut eniten Copilotin toiminnassa?  
-- [ ] Tuottivatko eri mallit selvästi erilaisia tuloksia?  
 - [ ] Mikä ominaisuus tuntui luontaisimmalta tai hyödyllisimmältä?
+- [ ] Voisiko tästä olla hyötyä myös muille kuin ohjelmoijille?
 
 ---
 
@@ -204,13 +198,13 @@ Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme t
 
 | Vaihe | Kuvaus | Tehty |
 |------|-------|------|
-| 1 | Luo repo ja issue| ☐ |
-| 2 | Anna issue coding agentille | ☐ |
-| 3 | Avaa koodi Codespacesissa | ☐ |
-| 4 | Hyväksy Coding Agentin muutokset (mergaa pull request) | ☐ |
+| 1 | Luodaan ympäristö projektille| ☐ |
+| 2 | Laitetaan tekoäly töihin | ☐ |
+| 3 | Valmistellaan ympäristö, jossa testata ja muokata koodia | ☐ |
+| 4 | Takaisin GitHub.comiin katsomaan ja hyäksymään Coding Agentin muutokset | ☐ |
 | 5 | Muokkaa sovellusta Copilotilla VS Codessa | ☐ |
-| Vapaaehtoinen 1| Kokeile kaikki uudestaan | ☐ |
-| ✨ | Jaa havaintosi | ☐ |
+| 6 | Muokkaa sovellusta enemmän | ☐ |
+| 🧠 | Jaa havaintosi | ☐ |
 
 ---
 
