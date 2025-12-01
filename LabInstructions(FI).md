@@ -62,11 +62,11 @@ Kokeile kysymyksiä:
 - [ ]  Ja tämän jälkeen "New issue" <br>
       <img width="256" height="46" alt="image" src="https://github.com/user-attachments/assets/c02a53f9-85c8-4ef6-9914-bc2eead556f0" />
 
-- [ ]  Anna otsikoksi: Create a web app to manage inventory of a retail store
-- [ ]  Anna kuvaukseksi:
-      "Create an web app where user can manage an inventory. User can browse products, add and delete new products and change the quantity of products.
+- [ ]  Anna otsikoksi: <b>Create a web app to manage inventory of a retail store</b>
+- [ ]  Anna kuvaukseksi: <br>
+      <b>Create an web app where user can manage an inventory. User can browse products, add and delete new products and change the quantity of products.
 - Make the app look modern and easy to use.
-- Create also a local test database with 20 products pre populated" <br>
+- Create also a local test database with 20 products pre populated </b><br>
       <img width="630" height="435" alt="image" src="https://github.com/user-attachments/assets/3c11073b-31d1-4a5f-bfff-4b4d000b40bf" />
 
 </details>
