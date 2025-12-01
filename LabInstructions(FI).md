@@ -11,7 +11,6 @@ Työskentelet omassa repossasi, kokeilet vapaasti ja näet, miten Copilot muutta
 Ennen kuin aloitat tämän labran, varmista että sinulla on:
 <details>
       <summary>GitHub-tili</summary>
-      <details>
      🔹 <b>0️⃣ Luo GitHub-tili. Suosittelemme luomaan tilin henkilökohtaisella sähköposti osoitteella, jotta mahdolliset organisaatiosi säännöt eivät rajoita kokeilemista.</b>
                   -Mene osoitteeseen: [github.com](https://github.com/)
                   -Klikkaa oikeasta yläkulmasta: Sign up <br><br>
