@@ -136,7 +136,7 @@ Nyt Coding Agent on saanut työnsä valmiiksi ja voit tutustua lopputulokseen
 <img width="494" height="56" alt="image" src="https://github.com/user-attachments/assets/e7efabcd-9f6d-45c4-9194-c3e127d7b016" />
 - [ ] Klikkaa auki pull request <br>
       <img width="688" height="160" alt="image" src="https://github.com/user-attachments/assets/eb2846f1-e5d6-4669-b5cf-1a4b54e13dc0" /><br>
-- [ ] Tutki Copilotin tuottamaa koodia
+- [ ] Tutki Copilotin tuottamaa koodia<br>
 - [ ] Selaa näkymää alas ja klikkaa "Ready for review" <br>
       <img width="701" height="518" alt="image" src="https://github.com/user-attachments/assets/4d4fb966-d2a0-41ba-88c6-d598ad72ce9d" /><br>
 - [ ] Tämän jälkeen "Merge pull request"<br>
