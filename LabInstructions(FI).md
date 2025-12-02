@@ -187,10 +187,10 @@ Testaa näitä jos haluat:
 
 ## 🧠 Jaa havaintosi & keskustelua
 
-- [ ] Mikä ero on Coding Agentilla ja Copilot Agent modella?
-- [ ] Mikä yllätti sinut eniten Copilotin toiminnassa?  
-- [ ] Mikä ominaisuus tuntui luontaisimmalta tai hyödyllisimmältä?
-- [ ] Voisiko tästä olla hyötyä myös muille kuin ohjelmoijille?
+- Mikä ero on Coding Agentilla ja Copilot Agent modella?
+- Mikä yllätti sinut eniten Copilotin toiminnassa?  
+- Mikä ominaisuus tuntui luontaisimmalta tai hyödyllisimmältä?
+- Voisiko tästä olla hyötyä myös muille kuin ohjelmoijille?
 
 ---
 
