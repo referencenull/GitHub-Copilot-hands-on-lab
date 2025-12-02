@@ -1,209 +1,211 @@
-# 🚀 GitHub Copilot Hands-On Lab
-# https://github.com/referencenull/GitHub-Copilot-hands-on-lab
+# 🚀 GitHub Copilot Hands-On Lab - <b>Microsoft x Software Finland</b>
 
-Welcome to the **GitHub Copilot Hands-On Lab**!  
-This challenge will guide you through some of the Copilot features — from *Ask* and *Edit* and *Plan* modes to  *Copilot Coding Agent*.  
-You’ll work inside your own repository, experimenting freely and discovering how Copilot transforms your workflow and way of working.
+Tervetuloa **GitHub Copilot Hands-On Lab** -työpajaan!  
+Tämä haaste johdattaa sinut Copilotin ominaisuuksien läpi — *Ask*, *Edit* ja *Plan* -tiloista aina *Copilot Coding Agent* -agenttiin saakka.  
+Työskentelet omassa repossasi, kokeilet vapaasti ja näet, miten Copilot muuttaa työskentely- ja kehitystapojasi.
 
 ---
 
-## 📋 Prerequisites
+## 📋 Esivaatimukset
 
-Before starting this lab, ensure you have:
-- [ ] GitHub account
-      <details>
-      <summary>🔹 <b>0️⃣ Create GitHub account if you do not already have one</b></summary>
-                  Go to: github.com  
-                  From upper right corner click: Sign up <br>
-                  <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
-                  <br>
-                  Fill in required information and follow the process and then sign in
+Ennen kuin aloitat tämän labran, varmista että sinulla on:
+<details>
+      <summary><ins>GitHub-tili</ins></summary>
+     🔹 <b> Luo GitHub-tili. Suosittelemme luomaan tilin henkilökohtaisella sähköposti osoitteella, jotta mahdolliset organisaatiosi säännöt eivät rajoita kokeilemista.</b>
+            -Mene osoitteeseen: [github.com](https://github.com/)
+            -Klikkaa oikeasta yläkulmasta: Sign up <br><br>
+            <img width="250" height="105" alt="image" src="https://github.com/user-attachments/assets/a66d7349-1eac-4ec7-a119-7860e5dc88ef" />
+            <br>
+            Täytä vaaditut tiedot, seuraa ohjeita ja kirjaudu sisään
       </details>
 
-- [ ] GitHub Copilot license
-      <details>
-      <summary>🔹 <b>1️⃣ Ensure GitHub Copilot is enabled</b></summary>
-                        Open link: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) and choose "Try for 30 days free" for                          GitHub Copilot Pro  and follow the activation process
+<details>
+      <summary><ins>GitHub Copilot -lisenssi</ins></summary>
+      🔹 <b> Varmista, että sinulla on vaadittava GitHub Copilot käyttöoikeus</b>
+            -Avaa linkki: [GitHub Copilot · Plans & pricing](https://github.com/features/copilot/plans?ref_product=copilot) <br> ja valitse Keskimmäisestä                               "Pro" vaihtoehdosta "Try for 30 days free" <br>
+            <img width="507" height="420" alt="image" src="https://github.com/user-attachments/assets/d156511d-4f1b-4a2e-8be9-a9338b196099" /><br>
+            -Joudut syöttämään maksutietosi (luottokortti tai PayPal), mutta maksua ei mene, kun peruutat tilauksen labran jälkeen.
 
-📘 **Documentation:**
-- [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
+📘 **Dokumentaatio:**
+- [Aloitus GitHub Copilotin kanssa](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
 </details>
 
 
-## 🎯 Lab Objectives
+## 🎯 Labran tavoitteet
 
-By the end of this lab, you will:
-- Set up your GitHub account and access GitHub Copilot
-- Create applications using various GitHub Copilot tools
-- Use GitHub Copilot to understand and improve existing code
+Labran lopussa:
+- Olet luonut GitHub-tilin ja ottanut Copilotin käyttöösi
+- Olet luonut toimivan sovelluksen kirjoittamatta itse riviäkään koodia
+- Olet käyttänyt Copilotia ymmärtääksesi ja parantaaksesi olemassa olevaa ohjelmaa/koodia
 
+## 💬 Vaihe 1 – Luodaan ympäristö projektille
 
-## 💬 Phase 1 – Create repo and issue
-
-**Goal:** Setup basic envrionment/repo where you can test and try GitHub Copilot
+**Tavoite:** 1. Luo ympäristö ja paikka koodille (**repository**), jossa voit testata ja kokeilla GitHub Copilotia  2. Luo tehtävänanto (**issue**)
 
 <details>
-<summary>🔹 <b>2️⃣ Create empty repo and issue</b></summary>
-
-Try questions like:
-- [ ]  Click your profile picture at the top right and choose  "Repositories" from the menu <br>
-      <img width="490" height="187" alt="image" src="https://github.com/user-attachments/assets/e7ad7952-dcc7-4fca-ba1a-3ec94d9a65f3" />
+<summary>🔹 <b><ins> Luo tyhjä repo ja issue</ins></b></summary>
+      
+- Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
+        <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
          
-- [ ]  Click "New" button to create new repo. Give it a name (i.e.  and description (like "This is a web application to manage inventory")
-- [ ]  Click "Add README" toogle from "Off" to "On" and leave everything else as is
-- [ ]  Click "Create"
-- [ ]  Click "Issues" from the top menu and then button "New issue"
-- [ ]  Give it a title (e.g. "Create new web application") and description (e.g.  "Create a new web application where user can manage their inventory sales items. User can add new items, delete and browse them. Create also test list of items in local database.")
+- Klikkaa "New"-painiketta luodaksesi uuden repositoryn <br>
+      <img width="191" height="94" alt="image" src="https://github.com/user-attachments/assets/6be9be56-4d73-4e80-a53e-1ec511b9be5c" /> <br>
       
- 💡 **Details** The more detailed description you give the better results you will get later from Copilot. Think this as you would write an work description to any human developer or team member.
+- 1.Anna repositorylle nimi <br>2.Valitse "Add README" valinta "On" <br>3.Paina "Create repository" <br>
+      <img width="467" height="671" alt="image" src="https://github.com/user-attachments/assets/6c264ca6-274f-451c-acf2-1660cb6856c6" /><br>
+
+- Luodaan tehtävänanto/kuvaus eli "Issue": Valitse ylävalikosta "Issues" <br>
+      <img width="513" height="62" alt="image" src="https://github.com/user-attachments/assets/5732bb4e-3f46-4351-830d-36c51f522019" /> <br>
+
+- Ja tämän jälkeen "New issue" <br>
+      <img width="256" height="46" alt="image" src="https://github.com/user-attachments/assets/c02a53f9-85c8-4ef6-9914-bc2eead556f0" />
+
+- Anna otsikoksi: Create a web app to manage inventory of a retail store
+- Anna kuvaukseksi: <br>
+      - Create an web app where user can manage an inventory. User can browse products, add and delete products and change the quantity of products. Make the app look modern and easy to use. Create also a local test database with 20 products pre populated <br>
+      <img width="630" height="435" alt="image" src="https://github.com/user-attachments/assets/3c11073b-31d1-4a5f-bfff-4b4d000b40bf" />
+
 </details>
 
-## 🧩 Phase 2 – Assign issue to Coding Agent
+## 🧩 Vaihe 2 – Laitetaan tekoäly töihin
 
-**Goal:** Let the Coding Agent do the work.
+**Tavoite:** Annetaan tehtävänanto (issue) Coding Agentintille tehtäväksi
 
 <details>
-<summary>🔹 <b>3️⃣ Assign issue to Coding Agent and let it work on the background</b></summary>
+<summary>🔹 <b><ins> Anna issue Coding Agentille ja anna sen työstää sitä taustalla</ins></b></summary>
 
-Now that the issue is created we can give it to the Copilot Coding Agent to work on and find out what happens:
+Kun issue on luotu, voit antaa sen Copilot Coding Agentille ja katsoa, mitä tapahtuu:
 
-- [ ] Click "Assign to Copilot" <br>
-      <img width="486" height="265" alt="image" src="https://github.com/user-attachments/assets/db85f0a1-eb39-4d05-ab2a-7e72e5fd73a1" />
+- Klikkaa "Assign to Copilot" <br>
+      <img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/a19ffcb6-02c3-450c-a3fe-f62fc9860e88" /><br>
+- Klikkaa "Assign"<br>
+      <img width="475" height="233" alt="image" src="https://github.com/user-attachments/assets/7ff48ee8-a024-42e0-be87-fe52418ef88e" /><br>
+- Klikkaa "WIP..." (issuen tittelisi kanssa) -linkkiä seurataksesi mitä Coding Agent tekee <br>
+      <img width="420" height="113" alt="image" src="https://github.com/user-attachments/assets/ded50f10-9698-4feb-81c4-5eb5a6678975" /><br>
+- Coding Agent päivittää työtään tähän. Tutki tarkemmin klikkaamalla "View session": <br>
+      <img width="383" height="134" alt="image" src="https://github.com/user-attachments/assets/0995db07-710b-41f1-a93a-2efffabaf695" /><br>
+- Nyt voit:<br>
+      1. Tarkkailla mitä Coding Agent tekee<br>
+      2. Antaa vielä lisäehdotuksia tai muutoksia. Kirjoita tähän esimerkiksi "Target this web app for company selling..." <- jatka lausetta esim. motorcycles, skateboards tai jotain aivan muuta mitä haluat ohjelmassa näkeväsi.<br>
+      <img width="477" height="658" alt="image" src="https://github.com/user-attachments/assets/6717f8ce-9e50-4004-a660-9920e2fb2208" /><br>
+Koko prosessi voi kestää yli 10 minuuttia, joten nyt voimme välillä tehdä muuta ja palata katstoaan tilannetta myöhemmin.
       
-- [ ] Optional: Write additional instructions to "Optional prompt" if you like
-- [ ] Click "Assign"
-
-Next we can follow what the Coding Agent is doing:
-- [ ] Click "WIP..." (followed by your issues title) link <br>
-      <img width="94" height="89" alt="image" src="https://github.com/user-attachments/assets/e18fa4c6-ee0c-45a6-a374-2c20c0a3e413" />
-
-- [ ] Here the Coding Agent will update it work but to look deeper what it is doing you can click "View session" button: <br>
-      <img width="314" height="118" alt="image" src="https://github.com/user-attachments/assets/dafceb61-2153-4373-acc8-3e1dc206fe1f" />
-
-- [ ] See and explore what Coding agent is doing.
-      The whole activity can take over 10 minutes so let's come back later to see the complete process and meanwhile do something else.
-
-📘 [About GitHub Coding Agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
+📘 [Tietoa GitHub Coding Agentista](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
 
 </details>
 
-## 🧩 Phase 3 – Open repo in Codespaces
+## 🧩 Vaihe 3 – Valmistellaan ympäristö, jossa testata ja muokata koodia
 
-**Goal:** Use Copilot in VS Code from GitHub cloud based coding environment, Codespaces.
+**Tavoite:** Avataan pilvipohjainen kehittäjän ympäristö (Codespaces), jossa voimme tutkia ja muokata koodia Visual Studio Codessa (VS Code)
 
 <details>
-<summary>🔹 <b>4️⃣ Open the repo in Codespaces and explore Copilot in Visual Studio Code</b></summary>
+<summary>🔹 <b><ins> Avaa repository Codespacesissa ja tutki Copilotia VS Codessa</ins></b></summary>
 
-- [ ] Click "<>Code" from the top menu  
-- [ ] Click green "Code"-button, select Codespaces and "Create Codespaces on main" and wait the environment to be set up. Codespaces is a cloud development environment created to you automatically by GitHub. 
-- [ ] When the VS Code environment is setup GitHub Copilot is almost ready to use and can be found on the right of the screen, but we still need to finish the setup to enable AI features from the bottom right corner <br>
-       <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" />
-       
-And now we are ready to go
-- [ ] First we could generate the instruction file, as suggested, for Copilot by clicking "Generate agent insctructions" <br>
-      <img width="236" height="200" alt="image" src="https://github.com/user-attachments/assets/15ee7203-c44a-4a0e-84fb-9bbf31a96bc1" /> <br>
-      
-- [ ] We can follow Copilot working and accept its suggestions when it needs our interaction e.g. running commands on console. It might also ask more details from you.
-- [ ] When Copilot is done with the work you can push green "Keep" button to keep the code changes
-- [ ] Explore the copilot-instructions.md file that was created. This is where you can easily put general coding instructions for Copilot .i.e. coding standards, frameworks to use, workflows, repositiry structure...
+- Mene nettiselaimessa yksi askel taaksepäin (Coding Agentin työ näkymästä)
+- Klikkaa "<>Code" ylävalikosta <br>
+      <img width="125" height="77" alt="image" src="https://github.com/user-attachments/assets/56b3ab92-8374-4a90-88b4-be932593f08c" /><br>
 
-</details>
-<details>
-<summary>🔹 <b>5️⃣ Explore different modes of Copilot</b></summary>
+- Klikkaa vihreää "Code"-painiketta, valitse Codespaces ja "Create Codespaces on main", odota ympäristön avautumista. <br>
+      <img width="433" height="525" alt="image" src="https://github.com/user-attachments/assets/f1d5868f-beee-4321-b8ea-fc7ee971a229" />
 
-- [ ] There are different options how you can use Copilot: Ask, Edit and Agent.
-      
-Ask Mode
+- Kun Codespaces on luotu ja VS Code on avautunut voi ympäristö vaatia vielä seuraavia askeleita:<br>
+      1. GitHub tilin yhdistämistä:<br>
+      <img width="548" height="281" alt="image" src="https://github.com/user-attachments/assets/d8cca31f-f959-43f6-aa59-c04cffb494c5" /><br>
+      2. GitHub Copilotin aktivoimista:<br>
+       <img width="330" height="168" alt="image" src="https://github.com/user-attachments/assets/764d62d5-f0e9-4cb0-b6b2-113f63bdbf75" /> <br>    
+      Tämän jälkeen kaikki on valmista ja voimme työskennellä Copilotin kanssa kehittäjän ympäristössä. Tapoja on monia, joista yksinkertaisin on suoraan chat ikkununassa oikeassa alareunassa (fontin kokoa voit kasvattaa painamalla Ctrl + ):<br>
+      <img width="391" height="481" alt="image" src="https://github.com/user-attachments/assets/d8957fdc-50c3-4c52-82e2-2df26457bb06" /><br>
+      1. Kirjoita käskyt/promptit Copilotille
+      2. Valitse Copilot tila: Chat, Edit, Agent
+      3. Valitse tekoälymalli
+      4. Tämä symboli kertoo Copilotin tilan (aktiivinen/ei aktiivinen, 'miettii')
 
-Ask mode is designed for quick, context-aware answers to programming questions. It allows you to highlight code, type a query, and receive explanations, suggestions, or code snippets without modifying your code. This mode is ideal for understanding code functionality, exploring libraries, or solving specific problems like structuring SQL queries or debugging JavaScript closures. It’s a lightweight, non-intrusive way to get unstuck while staying focused on your task.
-
-Edit Mode
-
-Edit mode enables you to make precise code changes across one or more files by describing the desired updates in natural language. Copilot generates inline, review-ready edits, allowing you to approve or reject changes before they are applied. This mode is perfect for tasks like refactoring, adding error handling, or adhering to specific coding standards. It ensures you remain in control while accelerating repetitive or tedious tasks
-
-Agent Mode
-
-Agent mode is the most powerful and autonomous of the three. It allows Copilot to execute high-level tasks, such as building features, fixing bugs, or scaffolding entire sections of an application. Unlike Edit mode, Agent mode reasons across your entire project, applies multi-step changes, and runs commands or tools as needed. While it automates complex workflows, it requires clear instructions and is best suited for experienced developers who can guide its actions effectively
+Nyt voimme kuitenkin palata katsomaan GitHub.com portaalia onko Coding Agent jo valmiina. Palataan tänne hetken kulutta
 
 </details>
 
 ---
 
-## 🧩 Phase 4 – Back to GitHub.com and Coding Agent
+## 🧩 Vaihe 4 – Takaisin GitHub.comiin katsomaan ja hyäksymään Coding Agentin muutokset
 <details>
-<summary>🔹 <b>6️⃣Let's explore what coding agent has done and accept the pull request it made</b></summary>
+<summary>🔹 <b><ins>Tutki mitä Coding Agent on tehnyt ja hyväksy sen tekemä pull request</ins></b></summary>
 
-Now the coding agent should have finished it work and we can see what it came up with
+Nyt Coding Agent on saanut työnsä valmiiksi ja voit tutustua lopputulokseen
 
-- [ ] Go to "Pull requests" from the top menu then open the pull request shown  
-- [ ] Explore the outcome of Copilot, scroll down and click "Ready for review" button and then "Merge pull request" button when it turns green and finally "Confirm merge" 
+- Valitse ylävalikosta "Pull requests" <br>
+      <img width="494" height="56" alt="image" src="https://github.com/user-attachments/assets/e7efabcd-9f6d-45c4-9194-c3e127d7b016" /><br>
+- Klikkaa auki pull request <br>
+      <img width="688" height="160" alt="image" src="https://github.com/user-attachments/assets/eb2846f1-e5d6-4669-b5cf-1a4b54e13dc0" /><br>
+- Tutki Copilotin tuottamaa koodia<br>
+- Selaa näkymää alas ja klikkaa "Ready for review" <br>
+      <img width="701" height="518" alt="image" src="https://github.com/user-attachments/assets/4d4fb966-d2a0-41ba-88c6-d598ad72ce9d" /><br>
+- Tämän jälkeen "Merge pull request"<br>
+      <img width="701" height="482" alt="image" src="https://github.com/user-attachments/assets/5eef7210-e81c-4dda-95b4-b692af464c75" /><br>
+- Ja lopuksi "Confirm merge" <br>
+      <img width="687" height="334" alt="image" src="https://github.com/user-attachments/assets/d069dcaa-61ad-4b1c-845d-34f3e50ed87a" /><br>
 
-Now the code that Copilot created has been pulled to our codebase
+Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme tutkia, ajaa ja muokata sitä. Joten mennään takaisin kehitysympäristöön (Codespaces & VS Code).
 </details>
 
 ---
 
-<details>
-<summary>🔹 <b>7️⃣ Back to Codespaces to explore and modify the code</b></summary>
-
-- [ ] From left menu open "Source control" and then pull the changes Copilot made <br>
-      <img width="357" height="274" alt="image" src="https://github.com/user-attachments/assets/d3ffa87c-c1ae-4f16-ae30-86b233b385ef" /> <br>
-
-- [ ] Now we can run the application Copilot has created to us. But how? Let's ask from Copilot. Notice that you can insert the commands Copilot suggest directly to console.
-- [ ] Let's do some code changes. Maybe add button that blows confetti on the screen? Remember to accept the code suggestion by clicking the green "Keep"
-      ("Add button that will blow confetti on the screen")
-- [ ] Try open some code file, select few lines of code and ask Copilot to explain the code.
-- [ ] You can also ask Copilot to explain the project and maybe create html documentation for business people about what the application does. 
-
-
-</details>
-
----
-
-## 🧮 Phase 5 – Modify application using Copilot Agent from VS Code
+## 🧮 Vaihe 5 – Ladataan muutokset kehitysympäristöön
 
 <details>
-<summary>🔹 <b>8️⃣ Modify application by creating a new issue and give it to Coding Agent to work in the background</b></summary>
+<summary>🔹 <b><ins> Takaisin Codespacesiin päivittämään muutokset sekä tutkimaan ja muokkaamaan koodia</ins></b></summary>
 
-- [ ] From the menu on the left in VS code click GitHub icon and then "+" to create an new issue  <br>
-      <img width="252" height="166" alt="image" src="https://github.com/user-attachments/assets/128bcfca-44c4-49ed-99b9-a8f620fa6311" /> <br>
-      Change "Issue Title" to "Add images" <br>
-      Add description like "Add images to product. Add also test images to the database" <br>
-      Then create issue by clicking the check mark <br>
-      <img width="186" height="60" alt="image" src="https://github.com/user-attachments/assets/4c0bee8c-1688-4246-995a-19a5ba2f2e8b" /> <br>
+- Lataa Copilotin muutokset vasemman alareunan valikosta (Synchronize Changes) <br>
+      <img width="442" height="128" alt="image" src="https://github.com/user-attachments/assets/5c258cad-c81f-473c-a0b2-17e41c02e25d" /><br>
+      <img width="583" height="178" alt="image" src="https://github.com/user-attachments/assets/15108c6d-9ee5-459e-b93b-21c5fd7d4e74" /><br>
 
-- [ ] Open the newly created issue and assign it to Copilot. You can see Copilot starting to work on it
-- [ ] You can also watch the progress by clicking from the left menu the "Agent sessions"
-- [ ] And also as previously go to GitHub.com and "Pull requests" to see the progress .
-- [ ] Maybe open some code file, select few lines of code and ask Copilot to explain the code?
+- Nyt voit ajaa Copilotin tekemää sovellusta. Miten? Kysy asia Copilotilta!
+- Huomioi, että voit hyväksyä suoraan Copilotin ehdottamia komentoja terminaalissa.
+- Tee koodimuutoksia. Lisää vaikka nappi, joka räjäyttää konfettia ruudulle?
+     ("Add button that will blow confetti on the screen")
+Testaa näitä jos haluat:
+- Avaa jokin kooditiedosto, valitse jokin koodirivi ja pyydä Copilotia selittämään tämä koodi.
+- Voit myös esimerkiksi pyytää Copilotia selittämään projektin sisällön liiketoiminnan näkökulmasta ja muodostamaan siitä vaikka HTML-dokumentaatioksi.
 
 </details>
----
-
-## 🧠 Optional 1 – Try again creating new repo and new solution. Focus more on descriptions of repo, README and issues.
 
 ---
 
-## 🧠 Optional 2 – Share Your Insights
+## 🧮 Vaihe 6 – Muokkaa sovellusta enemmän 
 
-- [ ] What surprised you most about Copilot’s behavior?  
-- [ ] Did different models produce noticeably different results?  
-- [ ] Which feature felt most natural or valuable?
+<details>
+<summary>🔹 <b><ins> Nyt, kun osaat jo tehdä issuen ja antaa sen Copilot Coding Agentille tehtäväksi kokeile luoda uusi issue tai usemapi ja annan ne agentille tehtäväksi. Muokataan lisää myös VS Codessa</ins></b></summary>
 
----
+- Katso vaiheen 1 issuen luonti ja vaihe 2. Keksi muutoksia, luo vaikka usemapi issue ja anna ne agentille tehtäväksi. 
+- Voit seurata agentin työn etenemistä myös VS Codessa valitsemalla vasemman reunan valikosta "Agent sessions"<br>
+      <img width="179" height="206" alt="image" src="https://github.com/user-attachments/assets/06855fff-d387-4b2c-a168-dae6cc55629a" /><br>
 
-## ✅ Completion Checklist
+- Sillä välin, kun agentit tekevät työtään koita tehdä muutoksia VS Coden Copilotilla. Pyydä sitä tekemään muutoksia, kuten lisämään tuotteisiin kuvat tai jotain aivan muuta.
 
-| Step | Description | Done |
-|------|--------------|------|
-| 1 | Create repo and issue| ☐ |
-| 2 | Assign issue to coding agent | ☐ |
-| 3 | Open code in Codespaces | ☐ |
-| 4 | Accept changes from Coding Agent (merge pull request) | ☐ |
-| 5 | Modify application using Copilot in VS Code | ☐ |
-| Optional 1| Try everything again | ☐ |
-| ✨ | Share insights | ☐ |
+</details>
 
 ---
 
-Happy hacking and exploring Copilot! 🎉
+## 🧠 Jaa havaintosi & keskustelua
+
+- Mikä ero on Coding Agentilla ja Copilot Agent modella?
+- Mikä yllätti sinut eniten Copilotin toiminnassa?  
+- Mikä ominaisuus tuntui luontaisimmalta tai hyödyllisimmältä?
+- Voisiko tästä olla hyötyä myös muille kuin ohjelmoijille?
+
+---
+
+## ✅ Tarkistuslista
+
+| Vaihe | Kuvaus | Tehty |
+|------|-------|------|
+| 1 | Luodaan ympäristö projektille| ☐ |
+| 2 | Laitetaan tekoäly töihin | ☐ |
+| 3 | Valmistellaan ympäristö, jossa testata ja muokata koodia | ☐ |
+| 4 | Takaisin GitHub.comiin katsomaan ja hyäksymään Coding Agentin muutokset | ☐ |
+| 5 | Muokkaa sovellusta Copilotilla VS Codessa | ☐ |
+| 6 | Muokkaa sovellusta enemmän | ☐ |
+| 🧠 | Jaa havaintosi | ☐ |
+
+---
+
+Mukavaa kokeilua ja Copilotin tutkimista! 🎉
