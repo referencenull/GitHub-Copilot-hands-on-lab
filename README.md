@@ -1,4 +1,4 @@
-# 🚀 GitHub Copilot Hands-On Lab - <b>Microsoft x Software Finland</b>
+# 🚀 GitHub Copilot Hands-On Lab - <br><b>Microsoft x Software Finland</b>
 
 Tervetuloa **GitHub Copilot Hands-On Lab** -työpajaan!  
 Tämä haaste johdattaa sinut Copilotin ominaisuuksien läpi — *Ask*, *Edit* ja *Plan* -tiloista aina *Copilot Coding Agent* -agenttiin saakka.  
