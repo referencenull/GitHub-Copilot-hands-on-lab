@@ -2,7 +2,7 @@
 
 Tervetuloa **GitHub Copilot Hands-On Lab** -työpajaan!  
 Tämä haaste johdattaa sinut Copilotin ominaisuuksien läpi — *Ask*, *Edit* ja *Plan* -tiloista aina *Copilot Coding Agent* -agenttiin saakka.  
-Työskentelet omassa repossasi, kokeilet vapaasti ja näet, miten Copilot muuttaa työskentely- ja kehitystapojasi.
+Työskentelet omassa repossasi, kokeilet vapaasti ja näet, miten Copilot muuttaa työskentelyäsi ja lähestymistä ohjelmointiin.
 
 ---
 
