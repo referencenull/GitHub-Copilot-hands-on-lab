@@ -159,13 +159,13 @@ Nyt Copilotin tekemä koodi on hyväksytty projektiin / repositoryyn ja voimme t
       <img width="442" height="128" alt="image" src="https://github.com/user-attachments/assets/5c258cad-c81f-473c-a0b2-17e41c02e25d" /><br>
       <img width="583" height="178" alt="image" src="https://github.com/user-attachments/assets/15108c6d-9ee5-459e-b93b-21c5fd7d4e74" /><br>
 
-- Nyt voit ajaa Copilotin tekemää sovellusta. Miten? Kysy asia Copilotilta!
-- Huomioi, että voit hyväksyä suoraan Copilotin ehdottamia komentoja terminaalissa.
+- Nyt voit ajaa Copilotin tekemää sovellusta. Miten? Kysy asiaa Copilotilta!
+- Huomioi, että voit hyväksyä suoraan Copilotin ehdottamia komentoja ajettavaksi terminaalissa.
 - Tee koodimuutoksia. Lisää vaikka nappi, joka räjäyttää konfettia ruudulle?
      ("Add button that will blow confetti on the screen")
-Testaa näitä jos haluat:
+Voit testata myös jotain näistä:
 - Avaa jokin kooditiedosto, valitse jokin koodirivi ja pyydä Copilotia selittämään tämä koodi.
-- Voit myös esimerkiksi pyytää Copilotia selittämään projektin sisällön liiketoiminnan näkökulmasta ja muodostamaan siitä vaikka HTML-dokumentaatioksi.
+- Voit myös esimerkiksi pyytää Copilotia selittämään projektin sisällön liiketoiminnan näkökulmasta ja muodostamaan siitä vaikka HTML-dokumentaation.
 
 </details>
 
@@ -174,7 +174,7 @@ Testaa näitä jos haluat:
 ## 🧮 Vaihe 6 – Muokkaa sovellusta enemmän 
 
 <details>
-<summary>🔹 <b><ins> Nyt, kun osaat jo tehdä issuen ja antaa sen Copilot Coding Agentille tehtäväksi kokeile luoda uusi issue tai usemapi ja annan ne agentille tehtäväksi. Muokataan lisää myös VS Codessa</ins></b></summary>
+<summary>🔹 <b><ins> Nyt, kun osaat jo tehdä issuen ja antaa sen Copilot Coding Agentille tehtäväksi kokeile luoda uusi issue tai useampi ja annan ne agentille tehtäväksi. Muokataan lisää myös VS Codessa</ins></b></summary>
 
 - Katso vaiheen 1 issuen luonti ja vaihe 2. Keksi muutoksia, luo vaikka usemapi issue ja anna ne agentille tehtäväksi. 
 - Voit seurata agentin työn etenemistä myös VS Codessa valitsemalla vasemman reunan valikosta "Agent sessions"<br>
