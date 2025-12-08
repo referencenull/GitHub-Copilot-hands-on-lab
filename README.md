@@ -87,9 +87,9 @@ Kun issue on luotu, voit antaa sen Copilot Coding Agentille ja katsoa, mitä tap
       <img width="383" height="134" alt="image" src="https://github.com/user-attachments/assets/0995db07-710b-41f1-a93a-2efffabaf695" /><br>
 - Nyt voit:<br>
       1. Tarkkailla mitä Coding Agent tekee<br>
-      2. Antaa vielä lisäehdotuksia tai muutoksia. Kirjoita tähän esimerkiksi "Target this web app for company selling..." <- jatka lausetta esim. motorcycles, skateboards tai jotain aivan muuta mitä haluat ohjelmassa näkeväsi.<br>
+      2. Voit antaa vielä lisäehdotuksia tai muutoksia. Kirjoita tähän esimerkiksi "Target this web app for company selling..." <- jatka lausetta esim. motorcycles, skateboards tai jotain aivan muuta mitä haluat ohjelmassa näkeväsi.<br>
       <img width="477" height="658" alt="image" src="https://github.com/user-attachments/assets/6717f8ce-9e50-4004-a660-9920e2fb2208" /><br>
-Koko prosessi voi kestää yli 10 minuuttia, joten nyt voimme välillä tehdä muuta ja palata katstoaan tilannetta myöhemmin.
+Coding Agentin työskentely voi kestää yli 10 minuuttia, joten voimme sillä välin valmistella ohjelmointiympäristön ja palata katsmoaan tilannetta myöhemmin.
       
 📘 [Tietoa GitHub Coding Agentista](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
 
