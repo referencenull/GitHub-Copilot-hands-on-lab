@@ -45,6 +45,7 @@ Labran lopussa:
 <details>
 <summary>🔹 <b><ins> Luo tyhjä repo ja issue</ins></b></summary>
       
+- Avaa selaimeen uusi ikkuna tai välilehti, mene osoitteeseen [github.com](github.com) ja kirjaudu tilillesi (jos et jo ole kirjautuneena)
 - Klikkaa profiilikuvasi oikeasta yläkulmasta ja valitse "Repositories" <br>
         <img width="258" height="67" alt="image" src="https://github.com/user-attachments/assets/432d8e28-e96c-4ec6-8c93-10db18ddb2b5" />
          
